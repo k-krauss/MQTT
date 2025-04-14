@@ -1,6 +1,6 @@
 ﻿namespace MQTT
 {
-    partial class FrmMain
+    partial class FrmUnsafe
     {
         /// <summary>
         ///  Required designer variable.
@@ -118,7 +118,7 @@
             this.btnPublish.UseVisualStyleBackColor = true;
             this.btnPublish.Click += btnPublish_Click;
             // 
-            // FrmMain
+            // FrmUnsafe
             // 
             this.AutoScaleDimensions = new SizeF(7F, 15F);
             this.AutoScaleMode = AutoScaleMode.Font;
@@ -130,9 +130,9 @@
             this.Controls.Add(this.btnDisconnect);
             this.Controls.Add(this.btnConnect);
             this.Controls.Add(this.txtLog);
-            this.Name = "FrmMain";
+            this.Name = "FrmUnsafe";
             this.StartPosition = FormStartPosition.CenterScreen;
-            this.Text = "MQTT";
+            this.Text = "MQTT - ohne Zertifikat";
             this.WindowState = FormWindowState.Maximized;
             ResumeLayout(false);
         }

@@ -7,7 +7,7 @@ using System.Text;
 
 namespace MQTT
 {
-    public partial class FrmMain : Form
+    public partial class FrmUnsafe : Form
     {
         private const string url = "test.mosquitto.org";
         private const int port = 1883;
@@ -15,7 +15,7 @@ namespace MQTT
         private IMqttClient mqttClient;
         private IMqttClientOptions mqttOptions;
 
-        public FrmMain()
+        public FrmUnsafe()
         {
             InitializeComponent();
         }
@@ -28,8 +28,6 @@ namespace MQTT
             mqttClient = mqttFactory.CreateMqttClient();
             mqttOptions = new MqttClientOptionsBuilder()
                 .WithTcpServer(url, port)
-                //.WithCredentials("rw", "readwrite")
-                .WithCleanSession()
                 .Build();
 
             mqttClient.ConnectedHandler = new MqttClientConnectedHandlerDelegate(async e =>
