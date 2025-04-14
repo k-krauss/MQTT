@@ -1,0 +1,2733 @@
+Thema: /116484256345/0/current
+Nachricht: 1.19
+Nachricht empfangen:
+Thema: /116484256345/0/efficiency
+Nachricht: 95.034
+Nachricht empfangen:
+Thema: /116484256345/0/frequency
+Nachricht: 49.99
+Nachricht empfangen:
+Thema: /116484256345/0/power
+Nachricht: 281.3
+Nachricht empfangen:
+Thema: /116484256345/0/powerdc
+Nachricht: 296.0
+Nachricht empfangen:
+Thema: /116484256345/0/powerfactor
+Nachricht: 0.999
+Nachricht empfangen:
+Thema: /116484256345/0/reactivepower
+Nachricht: 0.2
+Nachricht empfangen:
+Thema: /116484256345/0/temperature
+Nachricht: 24.3
+Nachricht empfangen:
+Thema: /116484256345/0/voltage
+Nachricht: 234.8
+Nachricht empfangen:
+Thema: /116484256345/0/yieldday
+Nachricht: 1704
+Nachricht empfangen:
+Thema: /116484256345/0/yieldtotal
+Nachricht: 1665.712
+Nachricht empfangen:
+Thema: /116484256345/1/current
+Nachricht: 0.00
+Nachricht empfangen:
+Thema: /116484256345/1/irradiation
+Nachricht: 0.000
+Nachricht empfangen:
+Thema: /116484256345/1/power
+Nachricht: 0.0
+Nachricht empfangen:
+Thema: /116484256345/1/voltage
+Nachricht: 0.7
+Nachricht empfangen:
+Thema: /116484256345/1/yieldday
+Nachricht: 0
+Nachricht empfangen:
+Thema: /116484256345/1/yieldtotal
+Nachricht: 0.000
+Nachricht empfangen:
+Thema: /116484256345/2/current
+Nachricht: 0.00
+Nachricht empfangen:
+Thema: /116484256345/2/irradiation
+Nachricht: 0.000
+Nachricht empfangen:
+Thema: /116484256345/2/power
+Nachricht: 0.0
+Nachricht empfangen:
+Thema: /116484256345/2/voltage
+Nachricht: 0.6
+Nachricht empfangen:
+Thema: /116484256345/2/yieldday
+Nachricht: 0
+Nachricht empfangen:
+Thema: /116484256345/2/yieldtotal
+Nachricht: 0.000
+Nachricht empfangen:
+Thema: /116484256345/3/current
+Nachricht: 3.71
+Nachricht empfangen:
+Thema: /116484256345/3/irradiation
+Nachricht: 0.000
+Nachricht empfangen:
+Thema: /116484256345/3/power
+Nachricht: 150.5
+Nachricht empfangen:
+Thema: /116484256345/3/voltage
+Nachricht: 40.5
+Nachricht empfangen:
+Thema: /116484256345/3/yieldday
+Nachricht: 873
+Nachricht empfangen:
+Thema: /116484256345/3/yieldtotal
+Nachricht: 865.701
+Nachricht empfangen:
+Thema: /116484256345/4/current
+Nachricht: 3.55
+Nachricht empfangen:
+Thema: /116484256345/4/irradiation
+Nachricht: 0.000
+Nachricht empfangen:
+Thema: /116484256345/4/power
+Nachricht: 145.5
+Nachricht empfangen:
+Thema: /116484256345/4/voltage
+Nachricht: 41.0
+Nachricht empfangen:
+Thema: /116484256345/4/yieldday
+Nachricht: 831
+Nachricht empfangen:
+Thema: /116484256345/4/yieldtotal
+Nachricht: 800.011
+Nachricht empfangen:
+Thema: /116484256345/device/bootloaderversion
+Nachricht: 100
+Nachricht empfangen:
+Thema: /116484256345/device/fwbuilddatetime
+Nachricht: 2022-08-26 20:51:00
+Nachricht empfangen:
+Thema: /116484256345/device/fwbuildversion
+Nachricht: 10018
+Nachricht empfangen:
+Thema: /116484256345/device/hwpartnumber
+Nachricht: 270692644
+Nachricht empfangen:
+Thema: /116484256345/device/hwversion
+Nachricht: 01.00
+Nachricht empfangen:
+Thema: /116484256345/name
+Nachricht: KN
+Nachricht empfangen:
+Thema: /116484256345/radio/rssi
+Nachricht: -67
+Nachricht empfangen:
+Thema: /116484256345/radio/rx_fail_corrupt
+Nachricht: 43
+Nachricht empfangen:
+Thema: /116484256345/radio/rx_fail_nothing
+Nachricht: 14961
+Nachricht empfangen:
+Thema: /116484256345/radio/rx_fail_partial
+Nachricht: 2
+Nachricht empfangen:
+Thema: /116484256345/radio/rx_success
+Nachricht: 30296
+Nachricht empfangen:
+Thema: /116484256345/radio/tx_re_request
+Nachricht: 200
+Nachricht empfangen:
+Thema: /116484256345/radio/tx_request
+Nachricht: 45302
+Nachricht empfangen:
+Thema: /116484256345/status/last_update
+Nachricht: 1744633466
+Nachricht empfangen:
+Thema: /116484256345/status/limit_absolute
+Nachricht: 2000.00
+Nachricht empfangen:
+Thema: /116484256345/status/limit_relative
+Nachricht: 100.00
+Nachricht empfangen:
+Thema: /116484256345/status/producing
+Nachricht: 1
+Nachricht empfangen:
+Thema: /116484256345/status/reachable
+Nachricht: 1
+Nachricht empfangen:
+Thema: /BB-D_F0F5BDF48880/status
+Nachricht: {
+	"rssi_dBm":	-37,
+	"heap_B":	37524,
+	"CPU_temp_C":	47.40,
+	"ambient_temp_C":	32.51,
+	"ambient_humidity_RH":	34.32,
+	"ambient_dewpoint_C":	14.77,
+	"BB_1EF29D":	{
+		"rssi":	-71,
+		"battery_SOC_%":	97.50,
+		"battery_voltage_V":	12.99,
+		"battery_current_A":	1.95,
+		"solar_current_A":	0.00,
+		"solar_power_W":	0.00,
+		"solar_charge_Ah":	0.00,
+		"solar_Wh":	0.00,
+		"battery_in_Wh":	43.37,
+		"battery_out_Wh":	88.65,
+		"booster_Wh":	0.00,
+		"land_Wh":	43.37
+	}
+}
+Nachricht empfangen:
+Thema: /BB-D_F0F5BDF48894/status
+Nachricht: {
+	"rssi_dBm":	-49,
+	"heap_B":	86292,
+	"CPU_temp_C":	26.50,
+	"ambient_temp_C":	15.34,
+	"ambient_humidity_RH":	61.35,
+	"ambient_dewpoint_C":	7.94,
+	"BB_6C4085":	{
+		"rssi":	-74,
+		"battery_SOC_%":	64.50,
+		"battery_voltage_V":	13.08,
+		"battery_current_A":	-0.22,
+		"solar_current_A":	0.00,
+		"solar_power_W":	0.00,
+		"booster_current_A":	0.00,
+		"booster_charge_Ah":	0.00,
+		"car_voltage_V":	12.79,
+		"solar_charge_Ah":	0.00,
+		"pv_voltage_V":	0.00,
+		"pv_peak_power_W":	0.00,
+		"pv_charger_phase":	0.00,
+		"booster_charger_phase":	0.00,
+		"booster_limit_status":	1.00,
+		"relais_status":	0.00,
+		"device_temperature_C":	12.50,
+		"solar_Wh":	0.00,
+		"battery_in_Wh":	0.00,
+		"battery_out_Wh":	454.72,
+		"booster_Wh":	0.00,
+		"land_Wh":	0.00
+	}
+}
+Nachricht empfangen:
+Thema: /GiPippo/cald_sts
+Nachricht: Off
+Nachricht empfangen:
+Thema: /I_Total_etage1_django
+Nachricht: 4.3
+Nachricht empfangen:
+Thema: /Lintec-Ixon_AC_Control
+Nachricht: {
+	"TEMP":	22,
+	"AC1":	0,
+	"AC2":	1,
+	"UP":	761,
+	"AM":	0,
+	"AL":	0,
+	"HOR":	9,
+	"MIN":	20,
+	"DATE":	"14/4/2025"
+}
+Nachricht empfangen:
+Thema: /MCP_Moburapa/12
+Nachricht: {"command":0,"timestamp":1744633420,"node_id":12,"node_name":"ยา IMPAACT 2-8","place_name":"Chonburi.Hospital","gps":{"lat":13.6340239,"lon":100.4924908},"user_id":99,"temp":5.56,"humid":0,"status_door":0,"status_door_alarm":0,"status_ac":0,"setting_temp_high":40,"setting_temp_on":36,"setting_temp_off":34,"setting_temp_overlow":31,"slave_cnt":1,"slaves":[{"temp_cnt":5,"temp_avr":5.56,"compressor_current":0,"temps":[5.38,5.21,5.81,5.85,-88.88],"status":{"slave":1,"temp":1,"compressor":1,"ac":0}}]}
+Nachricht empfangen:
+Thema: /MCP_Moburapa/13
+Nachricht: {"command":0,"timestamp":1744547023,"node_id":13,"node_name":"ชลา ฯ #2","place_name":"Chonburi.Hospital","gps":{"lat":13.6340239,"lon":100.4924908},"user_id":99,"temp":4.51,"humid":0,"status_door":0,"status_door_alarm":0,"status_ac":0,"setting_temp_high":38,"setting_temp_on":36,"setting_temp_off":34,"setting_temp_overlow":32,"slave_cnt":1,"slaves":[{"temp_cnt":5,"temp_avr":4.51,"compressor_current":0,"temps":[4.1,3.19,5.44,5.31,26.69],"status":{"slave":1,"temp":0,"compressor":0,"ac":0}}]}
+Nachricht empfangen:
+Thema: /MCP_Moburapa/14
+Nachricht: {"command":0,"timestamp":1744633425,"node_id":14,"node_name":"ชลาฯ  #1","place_name":"Chonburi.Hospital","gps":{"lat":13.6340239,"lon":100.4924908},"user_id":99,"temp":5.5,"humid":0,"status_door":0,"status_door_alarm":0,"status_ac":0,"setting_temp_high":38,"setting_temp_on":36,"setting_temp_off":34,"setting_temp_overlow":30,"slave_cnt":1,"slaves":[{"temp_cnt":5,"temp_avr":5.5,"compressor_current":2.61,"temps":[4.89,3.9,7.06,6.07,14.69],"status":{"slave":1,"temp":1,"compressor":1,"ac":0}}]}
+Nachricht empfangen:
+Thema: /MCP_Moburapa/15
+Nachricht: {"command":0,"timestamp":1744636732,"node_id":15,"node_name":"ตู้ ห้อง Excellent","place_name":"Chonburi.Hospital","gps":{"lat":13.6340239,"lon":100.4924908},"user_id":99,"temp":5.54,"humid":0,"status_door":0,"status_door_alarm":0,"status_ac":0,"setting_temp_high":38,"setting_temp_on":35,"setting_temp_off":34,"setting_temp_overlow":32,"slave_cnt":1,"slaves":[{"temp_cnt":5,"temp_avr":5.54,"compressor_current":0.95,"temps":[3.36,6.8,6.11,5.89,-88.88],"status":{"slave":1,"temp":1,"compressor":1,"ac":0}}]}
+Nachricht empfangen:
+Thema: /MCP_Moburapa/16
+Nachricht: {"command":0,"timestamp":1744633431,"node_id":16,"node_name":"คลังยา #1","place_name":"Chonburi.Hospital","gps":{"lat":13.6340239,"lon":100.4924908},"user_id":99,"temp":5.02,"humid":0,"status_door":0,"status_door_alarm":0,"status_ac":0,"setting_temp_high":38,"setting_temp_on":36,"setting_temp_off":34,"setting_temp_overlow":32,"slave_cnt":1,"slaves":[{"temp_cnt":5,"temp_avr":5.02,"compressor_current":0,"temps":[4.94,6.38,3.81,-88.88,-88.88],"status":{"slave":1,"temp":0,"compressor":0,"ac":0}}]}
+Nachricht empfangen:
+Thema: /MCP_Moburapa/17
+Nachricht: {"command":0,"timestamp":1744633440,"node_id":17,"node_name":"คลังยา #2","place_name":"Chonburi.Hospital","gps":{"lat":13.6340239,"lon":100.4924908},"user_id":99,"temp":5.77,"humid":0,"status_door":0,"status_door_alarm":0,"status_ac":0,"setting_temp_high":38,"setting_temp_on":36,"setting_temp_off":34,"setting_temp_overlow":32,"slave_cnt":1,"slaves":[{"temp_cnt":5,"temp_avr":5.77,"compressor_current":0,"temps":[2.88,10.01,3.44,6.75,-88.88],"status":{"slave":1,"temp":1,"compressor":1,"ac":0}}]}
+Nachricht empfangen:
+Thema: /MCP_Moburapa/24
+Nachricht: {"command":0,"timestamp":1744633427,"node_id":24,"node_name":"ตู้คลังยา #4","place_name":"Chonburi.Hospital","gps":{"lat":13.6340239,"lon":100.4924908},"user_id":99,"temp":4.41,"humid":0,"status_door":0,"status_door_alarm":0,"status_ac":0,"setting_temp_high":38,"setting_temp_on":36,"setting_temp_off":35,"setting_temp_overlow":32,"slave_cnt":2,"slaves":[{"temp_cnt":5,"temp_avr":4.43,"compressor_current":0,"temps":[4.69,4.82,3.78,-88.88,25.88],"status":{"slave":1,"temp":0,"compressor":0,"ac":0}},{"temp_cnt":5,"temp_avr":4.39,"compressor_current":0,"temps":[4.81,4.63,3.69,4.38,24.5],"status":{"slave":1,"temp":0,"compressor":0,"ac":0}}]}
+Nachricht empfangen:
+Thema: /MCP_Moburapa/25
+Nachricht: {"command":0,"timestamp":1744632559,"node_id":25,"node_name":"ตู้คลังยา #5","place_name":"Chonburi.Hospital","gps":{"lat":13.6340239,"lon":100.4924908},"user_id":99,"temp":4.845,"humid":0,"status_door":0,"status_door_alarm":0,"status_ac":0,"setting_temp_high":38,"setting_temp_on":36,"setting_temp_off":35,"setting_temp_overlow":32,"slave_cnt":2,"slaves":[{"temp_cnt":5,"temp_avr":4.81,"compressor_current":0,"temps":[7.19,1.5,7.31,3.22,17.88],"status":{"slave":1,"temp":0,"compressor":0,"ac":0}},{"temp_cnt":-1,"temp_avr":-1,"compressor_current":-1,"temps":[],"status":{"slave":-1,"temp":-1,"compressor":-1,"ac":-1}}]}
+Nachricht empfangen:
+Thema: /MCP_Moburapa/6
+Nachricht: {"command":0,"timestamp":1744633337,"node_id":6,"node_name":"ยาเด็ก OPD Ped","place_name":"Chonburi.Hospital","gps":{"lat":13.6340239,"lon":100.4924908},"user_id":99,"temp":4,"humid":0,"status_door":0,"status_door_alarm":0,"status_ac":0,"setting_temp_high":38,"setting_temp_on":35,"setting_temp_off":34,"setting_temp_overlow":32,"slave_cnt":1,"slaves":[{"temp_cnt":5,"temp_avr":4,"compressor_current":0,"temps":[4.13,3.69,4.5,3.69,27.38],"status":{"slave":1,"temp":0,"compressor":0,"ac":0}}]}
+Nachricht empfangen:
+Thema: /MCP_Moburapa/8
+Nachricht: {"command":0,"timestamp":1743661306,"node_id":8,"node_name":"ตู้ OPD 2","place_name":"Chonburi.Hospital","gps":{"lat":13.6340239,"lon":100.4924908},"user_id":99,"temp":5.44,"humid":0,"status_door":0,"status_door_alarm":0,"status_ac":0,"setting_temp_high":38,"setting_temp_on":36,"setting_temp_off":35,"setting_temp_overlow":32,"slave_cnt":1,"slaves":[{"temp_cnt":5,"temp_avr":5.44,"compressor_current":3.26,"temps":[4.44,5.5,5.85,5.97,-88.88],"status":{"slave":1,"temp":1,"compressor":1,"ac":0}}]}
+Nachricht empfangen:
+Thema: /MCP_Moburapa/9
+Nachricht: {"command":0,"timestamp":1744633273,"node_id":9,"node_name":"ตู้ OPD #3","place_name":"Chonburi.Hospital","gps":{"lat":13.6340239,"lon":100.4924908},"user_id":99,"temp":5.25,"humid":0,"status_door":0,"status_door_alarm":0,"status_ac":0,"setting_temp_high":38,"setting_temp_on":36,"setting_temp_off":35,"setting_temp_overlow":32,"slave_cnt":1,"slaves":[{"temp_cnt":5,"temp_avr":5.25,"compressor_current":0,"temps":[4.25,4.81,5.94,6.06,17.19],"status":{"slave":1,"temp":0,"compressor":0,"ac":0}}]}
+Nachricht empfangen:
+Thema: /P_Factor1
+Nachricht: 58
+Nachricht empfangen:
+Thema: /P_Factor_etage1_django
+Nachricht: 72
+Nachricht empfangen:
+Thema: /P_Total_etage1_django
+Nachricht: 629
+Nachricht empfangen:
+Thema: /Steinel/EO/Online
+Nachricht: {"Online":true}
+Nachricht empfangen:
+Thema: /ac/is_valid
+Nachricht: 1
+Nachricht empfangen:
+Thema: /ac/power
+Nachricht: 281.0
+Nachricht empfangen:
+Thema: /ac/yieldday
+Nachricht: 1704
+Nachricht empfangen:
+Thema: /ac/yieldtotal
+Nachricht: 1665.712
+Nachricht empfangen:
+Thema: /braude/homeassistant/death
+Nachricht: offline
+Nachricht empfangen:
+Thema: /cost_django
+Nachricht: 333
+Nachricht empfangen:
+Thema: /dc/irradiation
+Nachricht: 0.000
+Nachricht empfangen:
+Thema: /dc/is_valid
+Nachricht: 1
+Nachricht empfangen:
+Thema: /dc/power
+Nachricht: 295.7
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/BCGRegim
+Nachricht: {"Cntrl":"Opentherm","Regim":"NoTS","BoilerSeason":"StandBy","id":13375858,"MAC":"08:D1:F9:72:19:CC","FWver":"1.94","SSID":"Tenda_BBD000","IP":"192.168.0.138","RSSI":-77,"Ch":11,"Mobile":"On"}
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/BCGRegim/meta/type
+Nachricht: text
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/BoilerContours
+Nachricht: {"CH1":true,"CH2":false,"DHW":false}
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/BoilerContours/meta/type
+Nachricht: text
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/BoilerErCode
+Nachricht: 0
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/BoilerErCode/meta/type
+Nachricht: value
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/BoilerError
+Nachricht: 0
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/BoilerError/meta/type
+Nachricht: value
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/BoilerFlame
+Nachricht: 1
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/BoilerFlame/meta/type
+Nachricht: value
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/BoilerT
+Nachricht: 69.00
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/BoilerT/meta/type
+Nachricht: temperature
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/CHstpt
+Nachricht: 42.00
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/CHstpt/meta/max
+Nachricht: 100
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/CHstpt/meta/type
+Nachricht: range
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/CHstptMax
+Nachricht: 85
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/CHstptMax/meta/type
+Nachricht: temperature
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/CHstptMin
+Nachricht: 30
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/CHstptMin/meta/type
+Nachricht: temperature
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/DHWT
+Nachricht: 35.00
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/DHWT/meta/type
+Nachricht: temperature
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/DHWstpt
+Nachricht: 42.00
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/DHWstpt/meta/max
+Nachricht: 100
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/DHWstpt/meta/type
+Nachricht: range
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/DHWstptMax
+Nachricht: 55
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/DHWstptMax/meta/type
+Nachricht: temperature
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/DHWstptMin
+Nachricht: 35
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/DHWstptMin/meta/type
+Nachricht: temperature
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/ExternT
+Nachricht: 0.00
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/ExternT/meta/type
+Nachricht: temperature
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/Modulation
+Nachricht: 59.00
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/Modulation/meta/type
+Nachricht: value
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/NTC10kT
+Nachricht: 9.93
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/NTC10kT/meta/type
+Nachricht: temperature
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/OTisConnect
+Nachricht: 1
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/OTisConnect/meta/type
+Nachricht: value
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/OutsideT
+Nachricht: 0.00
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/OutsideT/meta/type
+Nachricht: temperature
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/Pressure
+Nachricht: 0.00
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/Pressure/meta/type
+Nachricht: pressure
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/Rele
+Nachricht: 0
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/Rele/meta/type
+Nachricht: switch
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/ReturnT
+Nachricht: 65535.00
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/ReturnT/meta/type
+Nachricht: temperature
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/Roomstpt
+Nachricht: 25.50
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/Roomstpt/meta/max
+Nachricht: 40
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/Roomstpt/meta/type
+Nachricht: range
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/SeasonRegim
+Nachricht: 0
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/SeasonRegim/meta/max
+Nachricht: 2
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/SeasonRegim/meta/type
+Nachricht: range
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/TSContours
+Nachricht: {"CH1":true,"CH2":true,"DHW":true}
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/TSContours/meta/type
+Nachricht: text
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/TSRoom
+Nachricht: 0.00
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/TSRoom/meta/type
+Nachricht: temperature
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/Uptime
+Nachricht: {"months":0,"days":0,"hours":0,"minutes":1}
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/Uptime/meta/type
+Nachricht: text
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/isDHWRemoteStp
+Nachricht: 0
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/isDHWRemoteStp/meta/type
+Nachricht: value
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/isDHWRemoteTransfer
+Nachricht: 1
+Nachricht empfangen:
+Thema: /devices/BCG113/controls/isDHWRemoteTransfer/meta/type
+Nachricht: value
+Nachricht empfangen:
+Thema: /devices/BCG521/controls/CoreTemp
+Nachricht: 70.00
+Nachricht empfangen:
+Thema: /devices/BCG521/controls/Rele
+Nachricht: 1
+Nachricht empfangen:
+Thema: /devices/BCG521/controls/oneWire_1
+Nachricht: 51.44
+Nachricht empfangen:
+Thema: /devices/BCG521/controls/oneWire_2
+Nachricht: 51.69
+Nachricht empfangen:
+Thema: /devices/BCG521/controls/oneWire_3
+Nachricht: 29.19
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/i1
+Nachricht: OFF
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/i2
+Nachricht: OFF
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/i3
+Nachricht: OFF
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/i4
+Nachricht: OFF
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/i5
+Nachricht: OFF
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/i6
+Nachricht: OFF
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/i7
+Nachricht: OFF
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/i8
+Nachricht: OFF
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/input1
+Nachricht: {"idx":"1","status":"HIGH"}
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/input2
+Nachricht: {"idx":"2","status":"HIGH"}
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/input3
+Nachricht: {"idx":"3","status":"HIGH"}
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/input4
+Nachricht: {"idx":"4","status":"HIGH"}
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/input5
+Nachricht: {"idx":"5","status":"HIGH"}
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/input6
+Nachricht: {"idx":"6","status":"HIGH"}
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/input7
+Nachricht: {"idx":"7","status":"HIGH"}
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/input8
+Nachricht: {"idx":"8","status":"HIGH"}
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/input_cnt
+Nachricht: 8
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/ip
+Nachricht: 192.168.3.150
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/lwt_availability
+Nachricht: online
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/mac
+Nachricht: ba:34:88:00:97:f6
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/r1
+Nachricht: ON
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/r2
+Nachricht: ON
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/r3
+Nachricht: ON
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/r4
+Nachricht: ON
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/r5
+Nachricht: ON
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/r6
+Nachricht: OFF
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/r7
+Nachricht: OFF
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/r8
+Nachricht: OFF
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/relay1
+Nachricht: {"idx":"1","status":"ON"}
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/relay2
+Nachricht: {"idx":"2","status":"ON"}
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/relay3
+Nachricht: {"idx":"3","status":"ON"}
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/relay4
+Nachricht: {"idx":"4","status":"ON"}
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/relay5
+Nachricht: {"idx":"5","status":"ON"}
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/relay6
+Nachricht: {"idx":"6","status":"OFF"}
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/relay7
+Nachricht: {"idx":"7","status":"OFF"}
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/relay8
+Nachricht: {"idx":"8","status":"OFF"}
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/relay_cnt
+Nachricht: 8
+Nachricht empfangen:
+Thema: /dingtian/relay39077/out/sn
+Nachricht: 39077
+Nachricht empfangen:
+Thema: /dns/ipv4/router
+Nachricht: U2FsdGVkX1/3FAx5I8rxmxlox23TKa+QETiQi2M5BXzNJJ+1j6k/0h7h1ViVDxDLfm4nWyip4r3+4pkdnbhOzA==
+Nachricht empfangen:
+Thema: /dtu/bssid
+Nachricht: 44:4E:6D:1B:26:66
+Nachricht empfangen:
+Thema: /dtu/heap/free
+Nachricht: 157308
+Nachricht empfangen:
+Thema: /dtu/heap/maxalloc
+Nachricht: 110580
+Nachricht empfangen:
+Thema: /dtu/heap/minfree
+Nachricht: 118200
+Nachricht empfangen:
+Thema: /dtu/heap/size
+Nachricht: 283608
+Nachricht empfangen:
+Thema: /dtu/hostname
+Nachricht: DTU
+Nachricht empfangen:
+Thema: /dtu/ip
+Nachricht: 192.168.178.25
+Nachricht empfangen:
+Thema: /dtu/rssi
+Nachricht: -62
+Nachricht empfangen:
+Thema: /dtu/temperature
+Nachricht: 69.44
+Nachricht empfangen:
+Thema: /dtu/uptime
+Nachricht: 574882
+Nachricht empfangen:
+Thema: /famkam/door/status
+Nachricht: 1
+Nachricht empfangen:
+Thema: /meraki/iot
+Nachricht: {"mrMac":"88:15:44:A9:7A:16","clientType":"associated","clientMac":"94:BB:43:C6:C8:D5","timestamp":"2025-04-14 12:24:26.831","networkId":"N_602356450160825038","band":"5 GHz","rssi":"-43","radio":"wifi"}
+Nachricht empfangen:
+Thema: /multisensor/MS-IPc049ef485ab7/peripherals/led/POST
+Nachricht: {"colour" : "GREEN", "mode" : "ON", "duration" : 10000}
+Nachricht empfangen:
+Thema: /openweathermap/
+Nachricht: {"cod":401,"message":"Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."}
+Nachricht empfangen:
+Thema: /root2/tecalor/betriebsstatus/Heizkreispumpe
+Nachricht: true
+Nachricht empfangen:
+Thema: /root2/tecalor/betriebsstatus/Schaltprogramm aktiv
+Nachricht: true
+Nachricht empfangen:
+Thema: /sensor/data
+Nachricht: {"serialNumber":"EM-001","sensorType":"Energy Meter","sensorModel":"T1000","Power":"1657.0","Voltage":"240.85","Frequency":"49.3","Amperage":"6.88"}
+Nachricht empfangen:
+Thema: /simpleiomqttsolns/0261b061-c9b0-468a-a221-4ba992dd60a3/meteredsites/53c022e4-67b7-4982-b056-8aff608f08bf/kfuh-pmu-01
+Nachricht: {"timestamp":"2025-04-14T15:26:33.868+03:00","Energy":"84482.15","Power":"3.83"}
+Nachricht empfangen:
+Thema: /simpleiomqttsolns/0261b061-c9b0-468a-a221-4ba992dd60a3/meteredsites/53c022e4-67b7-4982-b056-8aff608f08bf/kfuh-pmu-02
+Nachricht: {"timestamp":"2025-04-14T15:26:33.868+03:00","Energy":"27638.01","Power":"0.00"}
+Nachricht empfangen:
+Thema: /status
+Nachricht: running
+Nachricht empfangen:
+Thema: /summary/color
+Nachricht: 7965180
+Nachricht empfangen:
+Thema: /summary/load
+Nachricht: 7.05
+Nachricht empfangen:
+Thema: /summary/speed
+Nachricht: 2589
+Nachricht empfangen:
+Thema: /summary/title
+Nachricht: 笨娃
+Nachricht empfangen:
+Thema: /summary/total
+Nachricht: 136138287689
+Nachricht empfangen:
+Thema: /topics/oups
+Nachricht: {"deviceIdField":56460,"deviceName":"ERS DEMO NOK","deviceReference":null,"deviceSerialNumber":"47CB8","deviceTypeMark":"ELSYS","deviceTypeName":"ERS DESK","deviceTypeRef":null,"equipmentName":"deviceId-56460","eui":"a81758fffe047cb8","gatewayId":0,"gatewayEui":"008000000001ec21","payloadHex":"0100cb02320400010500070e331100","rssi":-71,"seqn":164453,"size":30,"altitude":0.0,"datr":"SF7BW125","freq":null,"latitude":43.61884,"longitude":3.9170263,"measurements":[],"networkTypeName":"LoRaPrivate","networkTypeReference":"LoRaPrivate","port":5,"snr":10,"spreadFactor":7,"timestamp":"2025-04-14T12:24:09.155Z"}
+Nachricht empfangen:
+Thema: 00/test2/FCU001
+Nachricht: {"timestamp":"2025-04-14 09:13:41.290+0100","version":"234243","version2":{"out":"345"},"version3":"345","system":{"operational":true,"operational2":{},"software":{},"hardware":{}},"pointset":{"points":{"setpoint":" [analogInput:-1]","setpoint2":{"reliability":"No Fault Detected","status":"{ok}","bacnetStatusFlags":"0000"}}},"alarmRecordProperty":""}
+Nachricht empfangen:
+Thema: 00-07-5F-D7-8C-B6/onvif-ej/Device/Trigger/DigitalInput/&Input_1
+Nachricht: { "UtcTime": "2024-12-24T09:32:09.386Z","Source":{"InputToken": "Input_1"},"Data":{"LogicalState": "false"}}
+Nachricht empfangen:
+Thema: 00-07-5F-D7-8C-B6/onvif-ej/Device/Trigger/Relay/&Output_1
+Nachricht: { "UtcTime": "2024-12-24T09:32:09.386Z","Source":{"RelayToken": "Output_1"},"Data":{"LogicalState": "inactive"}}
+Nachricht empfangen:
+Thema: 00-07-5F-D7-8C-B6/onvif-ej/VideoSource/GlobalSceneChange/AnalyticsService/&1
+Nachricht: { "UtcTime": "2024-12-24T09:32:09.386Z","Source":{"Source": "1"},"Data":{"State": "false"}}
+Nachricht empfangen:
+Thema: 00-07-5F-D7-8C-B6/onvif-ej/VideoSource/ImageTooBright/AnalyticsService/&1
+Nachricht: { "UtcTime": "2024-12-24T09:32:09.386Z","Source":{"Source": "1"},"Data":{"State": "false"}}
+Nachricht empfangen:
+Thema: 00-07-5F-D7-8C-B6/onvif-ej/VideoSource/ImageTooDark/AnalyticsService/&1
+Nachricht: { "UtcTime": "2024-12-24T09:32:09.386Z","Source":{"Source": "1"},"Data":{"State": "false"}}
+Nachricht empfangen:
+Thema: 00-07-5F-D7-8C-B6/onvif-ej/VideoSource/MotionAlarm/&1
+Nachricht: { "UtcTime": "2024-12-24T09:32:09.386Z","Source":{"Source": "1"},"Data":{"State": "false"}}
+Nachricht empfangen:
+Thema: 000011110000/offline
+Nachricht: offline hello
+Nachricht empfangen:
+Thema: 000011110000/test2
+Nachricht: 0.0
+Nachricht empfangen:
+Thema: 0037/BRA/GLOBAL/GLOBAL/LOCF/Config
+Nachricht: [{"Date_Time":"2025.04.14 10:57:52"},{"ID":"ISA","Areas":[{"ID":"Pasha","Zones":[{"ID":"A1"},{"ID":"B1"},{"ID":"B2"},{"ID":"B3"},{"ID":"B4"}]},{"ID":"TiefGarage","Zones":[{"ID":"Top zone 1"},{"ID":"Top zone 2"},{"ID":"Top zone 3"},{"ID":"Middle zone 1"},{"ID":"Middle zone 2"},{"ID":"Middle zone 3"},{"ID":"Bottom zone 1"},{"ID":"Bottom zone 2"},{"ID":"Bottom zone 3"}]}]},{"ID":"ISN","Areas":[{"ID":"RTLS Testbed","Zones":[{"ID":"Area1","Cells":[{"ID":"Meeting room"},{"ID":"Printer area"},{"ID":"Kitchen area"},{"ID":"Cubicle1"},{"ID":"Cubicle2"},{"ID":"Cubicle3"},{"ID":"TB100"},{"ID":"test1"},{"ID":"test2"},{"ID":"trapp"}]}]},{"ID":"3rd_floor","Zones":[{"ID":"dev office"},{"ID":"kontorlandskap"}]},{"ID":"kvadraturen_nord_s\u00F8r","Zones":[{"ID":"Otterdalsparken","Cells":[{"ID":"Nupenfontene"}]}]},{"ID":"kvadraturen_horisontal_vertikal"}]},{"ID":"world_map","Areas":[{"ID":"square30"}]},{"ID":"gps-test-map"},{"ID":"Malaysia","Areas":[{"ID":"Kuala Lumpur"},{"ID":"drb-hicom","Zones":[{"ID":"rectangle"}]}]}]
+Nachricht empfangen:
+Thema: 0037/BRA/GLOBAL/GLOBAL/LOCF/RTLS/deleteme992
+Nachricht: {"KNR":"deleteme992","ID_Tag":"","Date_Time":"2025.04.01 13:18:33","Latitude":"","Longitude":"","Place":"Identec","Area":"ISA","Zone":"","Cell":"","Pos_X":"","Pos_Y":"","ID_Driver":"","Driver":"","Note":""}
+Nachricht empfangen:
+Thema: 0037/BRA/GLOBAL/GLOBAL/LOCF/RTLS/deleteme993
+Nachricht: {"KNR":"deleteme993","ID_Tag":"","Date_Time":"2025.04.01 13:18:33","Latitude":"","Longitude":"","Place":"Identec","Area":"ISA","Zone":"","Cell":"","Pos_X":"","Pos_Y":"","ID_Driver":"","Driver":"","Note":""}
+Nachricht empfangen:
+Thema: 0037/BRA/GLOBAL/GLOBAL/LOCF/RTLS/deleteme994
+Nachricht: {"KNR":"deleteme994","ID_Tag":"","Date_Time":"2025.04.01 13:18:33","Latitude":"","Longitude":"","Place":"Identec","Area":"ISA","Zone":"","Cell":"","Pos_X":"","Pos_Y":"","ID_Driver":"","Driver":"","Note":""}
+Nachricht empfangen:
+Thema: 0037/BRA/GLOBAL/GLOBAL/LOCF/RTLS/deleteme995
+Nachricht: {"KNR":"deleteme995","ID_Tag":"","Date_Time":"2025.04.01 13:18:33","Latitude":"","Longitude":"","Place":"Identec","Area":"ISA","Zone":"","Cell":"","Pos_X":"","Pos_Y":"","ID_Driver":"","Driver":"","Note":""}
+Nachricht empfangen:
+Thema: 0037/BRA/GLOBAL/GLOBAL/LOCF/RTLS/deleteme996
+Nachricht: {"KNR":"deleteme996","ID_Tag":"","Date_Time":"2025.04.01 13:18:34","Latitude":"","Longitude":"","Place":"Identec","Area":"ISA","Zone":"","Cell":"","Pos_X":"","Pos_Y":"","ID_Driver":"","Driver":"","Note":""}
+Nachricht empfangen:
+Thema: 0037/BRA/GLOBAL/GLOBAL/LOCF/RTLS/deleteme997
+Nachricht: {"KNR":"deleteme997","ID_Tag":"","Date_Time":"2025.04.01 13:18:34","Latitude":"","Longitude":"","Place":"Identec","Area":"ISA","Zone":"","Cell":"","Pos_X":"","Pos_Y":"","ID_Driver":"","Driver":"","Note":""}
+Nachricht empfangen:
+Thema: 0037/BRA/GLOBAL/GLOBAL/LOCF/RTLS/deleteme998
+Nachricht: {"KNR":"deleteme998","ID_Tag":"","Date_Time":"2025.04.01 13:18:34","Latitude":"","Longitude":"","Place":"Identec","Area":"ISA","Zone":"","Cell":"","Pos_X":"","Pos_Y":"","ID_Driver":"","Driver":"","Note":""}
+Nachricht empfangen:
+Thema: 0037/BRA/GLOBAL/GLOBAL/LOCF/RTLS/deleteme999
+Nachricht: {"KNR":"deleteme999","ID_Tag":"","Date_Time":"2025.04.01 13:18:34","Latitude":"","Longitude":"","Place":"Identec","Area":"ISA","Zone":"","Cell":"","Pos_X":"","Pos_Y":"","ID_Driver":"","Driver":"","Note":""}
+Nachricht empfangen:
+Thema: 0037/BRA/H2/DL2/AutoLackFehlererkennung/Status
+Nachricht: 0|00
+Nachricht empfangen:
+Thema: 02.002.1
+Nachricht: {
+    "model": "02.002",
+    "data": "2025-04-14",
+    "time": "11:12:10",
+    "CS_Estado_Global": "1"
+}
+Nachricht empfangen:
+Thema: 02.002.10
+Nachricht: {
+    "model": "02.002",
+    "data": "2025-04-14",
+    "time": "11:12:10",
+    "AI_15_T_exhaust": "75.4",
+    "AI_8_Lambda": "0.0",
+    "DI_2_Flap_byp_flag": "1",
+    "dt_byp_close": "90.0",
+    "dt_byp_open": "90.0"
+}
+Nachricht empfangen:
+Thema: 02.002.11
+Nachricht: {
+    "model": "02.002",
+    "data": "2025-04-14",
+    "time": "11:12:10",
+    "T_exh_close": "60.0",
+    "T_exh_on": "65.0",
+    "T_exh_open": "80.0"
+}
+Nachricht empfangen:
+Thema: 02.002.12
+Nachricht: {
+    "model": "02.002",
+    "data": "2025-04-14",
+    "time": "11:12:10",
+    "AI_10_P_diff_average": "4.3",
+    "AO_15_fN_M8": "0.0",
+    "C1_KD_PID_E": "0.0",
+    "C1_KI_PID_E": "90.0",
+    "C1_KP_PID_E": "2.5",
+    "C1_P_diff_Spa": "8.0",
+    "C1_P_diff_Spb": "25.0"
+}
+Nachricht empfangen:
+Thema: 02.002.13
+Nachricht: {
+    "model": "02.002",
+    "data": "2025-04-14",
+    "time": "11:12:10",
+    "N_exhaust_manual": "0"
+}
+Nachricht empfangen:
+Thema: 02.002.14
+Nachricht: {
+    "model": "02.002",
+    "data": "2025-04-14",
+    "time": "11:12:10",
+    "AO_12_fN_Fan_1": "0.0",
+    "AO_13_fN_Fan_2": "0.0",
+    "AO_14_fN_Fan_3": "0.0"
+}
+Nachricht empfangen:
+Thema: 02.002.15
+Nachricht: {
+    "model": "02.002",
+    "data": "2025-04-14",
+    "time": "11:12:10",
+    "N_fan_manual_1": "0",
+    "N_fan_manual_2": "0",
+    "N_fan_manual_3": "0"
+}
+Nachricht empfangen:
+Thema: 02.002.16
+Nachricht: {
+    "model": "02.002",
+    "data": "2025-04-14",
+    "time": "11:12:10",
+    "CI_M3": "24",
+    "CI_M5": "22",
+    "CI_M6": "0",
+    "CI_M7": "4"
+}
+Nachricht empfangen:
+Thema: 02.002.17
+Nachricht: {
+    "model": "02.002",
+    "data": "2025-04-14",
+    "time": "11:12:10",
+    "DI_22_TC_M3": "0",
+    "DI_24_TC_M5": "0",
+    "DI_25_TC_M6": "0",
+    "DI_26_TC_M7": "0",
+    "DO_10_M6": "0",
+    "DO_11_M7": "0",
+    "DO_7_M3": "0",
+    "DO_9_M5": "0"
+}
+Nachricht empfangen:
+Thema: 02.002.18
+Nachricht: {
+    "model": "02.002",
+    "data": "2025-04-14",
+    "time": "11:12:10",
+    "I_time_M3": "50",
+    "T_time_M3": "13.9",
+    "I_time_M5": "0",
+    "T_time_M5": "1621.4"
+}
+Nachricht empfangen:
+Thema: 02.002.19
+Nachricht: {
+    "model": "02.002",
+    "data": "2025-04-14",
+    "time": "11:12:10",
+    "I_time_M6": "8",
+    "T_time_M6": "1008.7",
+    "I_time_M7": "0",
+    "T_time_M7": "9.3"
+}
+Nachricht empfangen:
+Thema: 02.002.2
+Nachricht: {
+    "model": "02.002",
+    "data": "2025-04-14",
+    "time": "11:12:10",
+    "AI_11_P_water": "9.0",
+    "AI_18_Tbuf_down": "75.0",
+    "AI_19_Tbuf_top": "0.0",
+    "AI_27_Tin_B": "82.1",
+    "AI_29_Tout_B": "82.1",
+    "Buffer_flag": "1",
+    "DI_13_Security_Therm": "0"
+}
+Nachricht empfangen:
+Thema: 02.002.3
+Nachricht: {
+    "model": "02.002",
+    "data": "2025-04-14",
+    "time": "11:12:10",
+    "DO_16_Pump": "0",
+    "P_water_critical": "5",
+    "P_water_min": "8",
+    "T_pump_on": "55",
+    "Tw_limit": "90",
+    "Tw_SP": "70"
+}
+Nachricht empfangen:
+Thema: 02.002.4
+Nachricht: {
+    "model": "02.002",
+    "data": "2025-04-14",
+    "time": "11:12:10",
+    "AI_16_Tbf_1": "29.5",
+    "AI_17_Tbf_2": "29.1",
+    "DI_20_TC_M1": "0"
+}
+Nachricht empfangen:
+Thema: 02.002.5
+Nachricht: {
+    "model": "02.002",
+    "data": "2025-04-14",
+    "time": "11:12:10",
+    "DI_7_Float_Level": "0",
+    "DI_9_Level_sensor": "0",
+    "DO_3_Flap_conv": "0",
+    "DO_5_M1": "0",
+    "dt_ON_M1_max": "60",
+    "Qcomb": "0"
+}
+Nachricht empfangen:
+Thema: 02.002.6
+Nachricht: {
+    "model": "02.002",
+    "data": "2025-04-14",
+    "time": "11:12:10",
+    "C3_dt_feed_ON": "2.0",
+    "C3_dt_firstfeed": "13.0",
+    "C3_dt_pause": "0.0",
+    "C3_dt_pause_max": "74.0",
+    "C3_dt_pause_min": "19.0"
+}
+Nachricht empfangen:
+Thema: 02.002.7
+Nachricht: {
+    "model": "02.002",
+    "data": "2025-04-14",
+    "time": "11:12:10"
+}
+Nachricht empfangen:
+Thema: 02.002.8
+Nachricht: {
+    "model": "02.002",
+    "data": "2025-04-14",
+    "time": "11:12:10",
+    "C3_N_ignitions_max": "750",
+    "DI_21_TC_M2": "0",
+    "DO_4_Igniter_heater": "0",
+    "DO_17_Igniter_blower": "0"
+}
+Nachricht empfangen:
+Thema: 02.002.9
+Nachricht: {
+    "model": "02.002",
+    "data": "2025-04-14",
+    "time": "11:12:10",
+    "DO_6_M2": "0",
+    "dT_OFF": "4",
+    "dT_ON": "30583"
+}
+Nachricht empfangen:
+Thema: 0441-hum
+Nachricht: 31.0
+Nachricht empfangen:
+Thema: 0441-temp
+Nachricht: 72.0
+Nachricht empfangen:
+Thema: 0441-temp-msg
+Nachricht: Date Time:   2025-04-14 08:24:02 72.0F
+Nachricht empfangen:
+Thema: 08-00-06-01-00-00_value
+Nachricht: 32,2935
+Nachricht empfangen:
+Thema: 08-00-06-01-00-00_value1
+Nachricht: 32,2935
+Nachricht empfangen:
+Thema: 08-00-06-01-00-00_value2
+Nachricht: 110
+Nachricht empfangen:
+Thema: 08-00-06-01-00-00_value3
+Nachricht: 110,882
+Nachricht empfangen:
+Thema: 08:D1:F9:EC:96:AC/mqtt_reset
+Nachricht: {"mqtt_subs":"Matrix_Ernst","mqtt_port":1883,"mqtt_user":"amper","mqtt_pwd":"b00tst0ur4u","mqtt_server":"192.168.176.2"}
+Nachricht empfangen:
+Thema: 08b61fcd8728/online
+Nachricht: true
+Nachricht empfangen:
+Thema: 0983993998
+Nachricht: MKR:L84
+Nachricht empfangen:
+Thema: 0A3F9999/luz1st
+Nachricht: 0
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/RSSI
+Nachricht: -54
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/calefactor
+Nachricht: 0
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/deshumidificador
+Nachricht: 1
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/estado
+Nachricht: 2
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/extractor
+Nachricht: 1
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/horaUltimoDato
+Nachricht: 8:23:47
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/humedad
+Nachricht: 59
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/humedad/flor
+Nachricht: 40,50,55,45,60,54,65,60
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/humedad/sec
+Nachricht: 40,50,55,45,60,50,65,60
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/humedad/veg
+Nachricht: 45,65,70,60,75,65,80,75
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/humidificador
+Nachricht: 0
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/iluminacion/flor
+Nachricht: 03:00,15:00,,,,,,,,,,,,,,
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/iluminacion/sec
+Nachricht: 00:00,00:00,,,,,,,,,,,,,,
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/iluminacion/veg
+Nachricht: 22:00,16:00,,,,,,,,,,,,,,
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/instractor
+Nachricht: 0
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/luz
+Nachricht: 1
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/myIp
+Nachricht: 192.168.1.90
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/temperatura
+Nachricht: 26
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/temperatura/flor
+Nachricht: 15,17,28,24,23,20
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/temperatura/sec
+Nachricht: 15,17,20,18,23,20
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/temperatura/veg
+Nachricht: 15,17,28,24,30,26
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/ventilacion/flor
+Nachricht: 09:15,20:45,,,,,,,,,,,,,,
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/ventilacion/sec
+Nachricht: 00:00,00:00,,,,,,,,,,,,,,
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/ventilacion/veg
+Nachricht: 06:15,23:45,,,,,,,,,,,,,,
+Nachricht empfangen:
+Thema: 0c4d5617f8896ec63426eba1b993ff74ea64aaac/2165838124/ventilador
+Nachricht: 0
+Nachricht empfangen:
+Thema: 0oG3KFVRnC/garden/simslider/temperature
+Nachricht: 19.0
+Nachricht empfangen:
+Thema: 0qk9t9
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0qqnge/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0qsckb/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0qysmd/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0r1mbm
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0r1mbm/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0r35j
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0r35j/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0r3rs
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0r3rs/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0r52rs
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0r52rs/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0r6d8a/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0r8rc9/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0rcgtz/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0rdp1f/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0rh57c
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0rh57c/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0rjs3j
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0rm10p
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0rm10p/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0rmhy
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0rmhy/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0rogri
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0rogri/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0rovp
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0sp4mc
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0sp4mc/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0sre0d
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0sre0d/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0stmu
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0stmu/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0sts7
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0sts7/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0sv54a
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0sv54a/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0svya
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0svya/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0sxhln
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0sxhln/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0t044i/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0t09m
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0t09m/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0t1ywq
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0t1ywq/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0t21kd
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0t21kd/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0t2uqn
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0t2uqn/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0t32as/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0t4gcb/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0t5ini
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0t5ini/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0t6972
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0t6972/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0t97h
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0t97h/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0tbhuo
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0tbhuo/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0tc19
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0tc19/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0tflzm
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0tflzm/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0tg46g
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0tg46g/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0thrw
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0thrw/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0tio
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0tio/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0tj2ua
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0tj2ua/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0tk79m
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0tkzre
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0tkzre/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0tlcwp/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0tmjo
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0tmjo/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0tmwci
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0tmwci/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0tov14
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0tov14/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0trqde
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0trqde/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0tvvxu
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0tvvxu/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0typk
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0tzkw
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0tzkw/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0u2z48
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0u2z48/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0u44or
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0u44or/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0u6efj
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0u6efj/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0u7l3k
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0u7l3k/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0u9dx
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0u9dx/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0uak66
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0uak66/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0ubo9k
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0ubo9k/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0ucs9
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0ucs9/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0ucvg
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0ucvg/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0ud8md
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0ud8md/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0udrpm
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0udrpm/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0ugvl
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0ugvl/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0ulgwn
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0ulgwn/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0uly3w
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0uly3w/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0uool3
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0uool3/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0uqm7s
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0uqm7s/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0uqnck/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0usanq/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0utfga/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0utipg/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0uu2q/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0uus6d
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0uus6d/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0uuvu5
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0uuvu5/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0uvlvi5
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0uvlvi5/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0uxu8j
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0uxu8j/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0uygqo
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0uygqo/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0uz08
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0uz08/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0v08c
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0v08c/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0v34si
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0v34si/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0v3qkv
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0v3qkv/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0vg04a/read/Mario@M7
+Nachricht: 1Nachricht empfangen:
+Thema: 0vi38f
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0vi38f/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0vin19
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0vin19/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0vjn4q
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0vjn4q/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0vogtb
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0whero/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0wlxxa
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0wlxxa/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0wlyx
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0wlyx/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0woal
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0woal/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0womag
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0womag/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0wq2l
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0wq2l/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0wrmps/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0wtjq
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0wtjq/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0wus2b
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0wus2b/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0ww3uh/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0wxolk
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0wxolk/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0wy4s
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0wy4s/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0x1a2
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0x1a2/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0x2xfl
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0x2xfl/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0x35cj
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0x35cj/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0x38dn
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 0x38dn/read/Mario@M7
+Nachricht: 19-7-2023 08:22:48
+Nachricht empfangen:
+Thema: 0x3teq
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1/74-FE-48-7C-83-7A/connected
+Nachricht: {"ver":"100","ts":1744625920,"status":1,"model":"BossMini","hostname":"mboss-837a\n","sitename":"9798 Atacadão Juazeiro"}
+Nachricht empfangen:
+Thema: 1/74-FE-48-85-4D-D7/connected
+Nachricht: {"ver":"100","ts":1744624977,"status":1,"model":"BossMini","hostname":"mboss-4dd7\n","sitename":"9799 Atacadão Ipiranga"}
+Nachricht empfangen:
+Thema: 1/74-FE-48-86-AC-C0/connected
+Nachricht: {"ver":"100","ts":1744633299,"status":1,"model":"BossMini","hostname":"mboss-acc0\n","sitename":"9796 Atacadão Sertório"}
+Nachricht empfangen:
+Thema: 1/74-FE-48-87-3E-56/connected
+Nachricht: {"ver":"100","ts":1744632097,"status":1,"model":"BossMini","hostname":"mboss-3e56\n","sitename":"9797Atacadão Fortaleza Eusebio"}
+Nachricht empfangen:
+Thema: 1/74-FE-48-87-3E-96/connected
+Nachricht: {"ver":"100","ts":1744370446,"status":0,"model":"BossMini","hostname":"mboss-3e96\n","sitename":"9795 Atacadão Várzea Grande"}
+Nachricht empfangen:
+Thema: 10974/AirHandler
+Nachricht: {"FuseOK":1,"SupplyAir":66.54,"ReturnAir":67.78,"FloatSwOK":1,"Call4Cool":0,"Call4Fan":0,"Call4Heat":0,"PanWet":0,"FinalRMSVoltage":30.78,"BlowerAmps":0.00,"Heartbeat_OK":1,"Refrigerant":"R410A","SerialNumber":"10974"}
+Nachricht empfangen:
+Thema: 10974/Compressor
+Nachricht: {"PressureSuction":256.00,"PressureLiquid":257.00,"PressureHeat":312.00,"CompressorAmps":0.00,"FanAmps":0.00,"ReversingTemp":66.43,"LiquidTemp":70.14,"SuctionTemp":66.99,"CompressorTemp":74.64,"FanTemp":67.66,"AmbientTemp":64.40}
+Nachricht empfangen:
+Thema: 11/23
+Nachricht: { "V1":0, "V2":0, "V3":0, "V4":0, "V5":0, "V6":0, "V7":0, "V8":0, "V9":0, "V10":0, "V11":0, "V12":0, "V13":0, "V14":0, "V15":0 }
+Nachricht empfangen:
+Thema: 11/31
+Nachricht: { "V1":0, "V2":0, "V3":0, "V4":0, "V5":0, "V6":0, "V7":0, "V8":0, "V9":0, "V10":0, "V11":0, "V12":0, "V13":0, "V14":0, "V15":0 }
+Nachricht empfangen:
+Thema: 111AAA
+Nachricht: \111AAA\testuu\ooo=1
+
+
+Nachricht empfangen:
+Thema: 114183087432_marco/
+Nachricht: online
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/0/current
+Nachricht: 0.23
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/0/efficiency
+Nachricht: 95.396
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/0/frequency
+Nachricht: 49.99
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/0/power
+Nachricht: 51.8
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/0/powerdc
+Nachricht: 54.3
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/0/powerfactor
+Nachricht: 1.000
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/0/reactivepower
+Nachricht: 0.0
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/0/temperature
+Nachricht: 20.9
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/0/voltage
+Nachricht: 228.2
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/0/yieldday
+Nachricht: 137
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/0/yieldtotal
+Nachricht: 315.498
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/1/current
+Nachricht: 0.93
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/1/irradiation
+Nachricht: 0.000
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/1/power
+Nachricht: 27.4
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/1/voltage
+Nachricht: 29.5
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/1/yieldday
+Nachricht: 69
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/1/yieldtotal
+Nachricht: 159.784
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/2/current
+Nachricht: 0.91
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/2/irradiation
+Nachricht: 0.000
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/2/power
+Nachricht: 26.9
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/2/voltage
+Nachricht: 29.6
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/2/yieldday
+Nachricht: 68
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/2/yieldtotal
+Nachricht: 155.714
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/device/bootloaderversion
+Nachricht: 104
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/device/fwbuilddatetime
+Nachricht: 2021-11-01 08:42:00
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/device/fwbuildversion
+Nachricht: 10010
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/device/hwpartnumber
+Nachricht: 269553683
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/device/hwversion
+Nachricht: 01.10
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/name
+Nachricht: Balkon
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/status/last_update
+Nachricht: 1707299147
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/status/limit_absolute
+Nachricht: 600.00
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/status/limit_relative
+Nachricht: 100.00
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/status/producing
+Nachricht: 1
+Nachricht empfangen:
+Thema: 114183087432_marco/114183087432/status/reachable
+Nachricht: 0
+Nachricht empfangen:
+Thema: 114183087432_marco/ac/is_valid
+Nachricht: 0
+Nachricht empfangen:
+Thema: 114183087432_marco/ac/power
+Nachricht: 54.6
+Nachricht empfangen:
+Thema: 114183087432_marco/ac/yieldday
+Nachricht: 34
+Nachricht empfangen:
+Thema: 114183087432_marco/ac/yieldtotal
+Nachricht: 335.534
+Nachricht empfangen:
+Thema: 114183087432_marco/dc/irradiation
+Nachricht: 0.000
+Nachricht empfangen:
+Thema: 114183087432_marco/dc/is_valid
+Nachricht: 0
+Nachricht empfangen:
+Thema: 114183087432_marco/dc/power
+Nachricht: 57.2
+Nachricht empfangen:
+Thema: 114183087432_marco/dtu/bssid
+Nachricht: 2C:91:AB:83:C6:AB
+Nachricht empfangen:
+Thema: 114183087432_marco/dtu/hostname
+Nachricht: OpenDTU-15C5C0
+Nachricht empfangen:
+Thema: 114183087432_marco/dtu/ip
+Nachricht: 192.168.178.174
+Nachricht empfangen:
+Thema: 114183087432_marco/dtu/rssi
+Nachricht: -17
+Nachricht empfangen:
+Thema: 114183087432_marco/dtu/uptime
+Nachricht: 3609977
+Nachricht empfangen:
+Thema: 11_68932999SHNLOFXNLLIG/Richard/Ilona/available
+Nachricht: 2
+Nachricht empfangen:
+Thema: 11_68932999SHNLOFXNLLIG/Richard/Ilona/ch0/YieldDay
+Nachricht: 134
+Nachricht empfangen:
+Thema: 11_68932999SHNLOFXNLLIG/Richard/Ilona/ch0/YieldTotal
+Nachricht: 985.546
+Nachricht empfangen:
+Thema: 11_68932999SHNLOFXNLLIG/Richard/Ilona/ch1/YieldDay
+Nachricht: 66
+Nachricht empfangen:
+Thema: 11_68932999SHNLOFXNLLIG/Richard/Ilona/ch1/YieldTotal
+Nachricht: 478.977
+Nachricht empfangen:
+Thema: 11_68932999SHNLOFXNLLIG/Richard/Ilona/ch2/YieldDay
+Nachricht: 68
+Nachricht empfangen:
+Thema: 11_68932999SHNLOFXNLLIG/Richard/Ilona/ch2/YieldTotal
+Nachricht: 506.569
+Nachricht empfangen:
+Thema: 11_68932999SHNLOFXNLLIG/Richard/Ilona/last_success
+Nachricht: 1741776550
+Nachricht empfangen:
+Thema: 11_68932999SHNLOFXNLLIG/device
+Nachricht: AHOY-DTU
+Nachricht empfangen:
+Thema: 11_68932999SHNLOFXNLLIG/ip_addr
+Nachricht: 192.168.178.39
+Nachricht empfangen:
+Thema: 11_68932999SHNLOFXNLLIG/mqtt
+Nachricht: not connected
+Nachricht empfangen:
+Thema: 11_68932999SHNLOFXNLLIG/status
+Nachricht: 2
+Nachricht empfangen:
+Thema: 11_68932999SHNLOFXNLLIG/total/YieldDay
+Nachricht: 136
+Nachricht empfangen:
+Thema: 12aka
+Nachricht:   
+Nachricht empfangen:
+Thema: 1761609603.ADC
+Nachricht: 9.99
+Nachricht empfangen:
+Thema: 1761609603.Ch1
+Nachricht: 0
+Nachricht empfangen:
+Thema: 1761609603.Ch2
+Nachricht: 0
+Nachricht empfangen:
+Thema: 1761609603.JSON
+Nachricht: {"TIME":1744633444,"T1":0.0,"T2":0.0,"T3":0.0,"T4":0.0,"T5":0.0,"ADC":9.99,"Ch1":0,"Ch2":0,"TCh1":0,"TCh2":0,"OUT":0}
+Nachricht empfangen:
+Thema: 1761609603.OUT
+Nachricht: 0
+Nachricht empfangen:
+Thema: 1761609603.T1
+Nachricht: 0.0
+Nachricht empfangen:
+Thema: 1761609603.T2
+Nachricht: 0.0
+Nachricht empfangen:
+Thema: 1761609603.T3
+Nachricht: 0.0
+Nachricht empfangen:
+Thema: 1761609603.T4
+Nachricht: 0.0
+Nachricht empfangen:
+Thema: 1761609603.T5
+Nachricht: 0.0
+Nachricht empfangen:
+Thema: 1761609603.TCh1
+Nachricht: 0
+Nachricht empfangen:
+Thema: 1761609603.TCh2
+Nachricht: 0
+Nachricht empfangen:
+Thema: 1778e2cf-4b65-4269-b67d-6eb24f4c835f/pippo
+Nachricht: {
+  "configFileUrl": "http://172.20.10.3:8081/update-config.xml"
+}
+Nachricht empfangen:
+Thema: 17m08d/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 17mbne
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 17mbne/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 17mtf6
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 17mtf6/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 17p0ai
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 17p0ai/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 17r57k
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 17r57k/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 17rg7n
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 17rg7n/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 17u9jt
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 17u9jt/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 17uor
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 17uor/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 17yzfk/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 17z4cf
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 17z4cf/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1830lo/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1834ab
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1834ab/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 183jhg
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 183jhg/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 185nww
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 185nww/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1862271660.JSON
+Nachricht: {"TIME":1693390799,"V":227.68,"A":0.25,"W":25,"Wh":21448,"KWh":21.4,"PF":0.45,"Temp":34,"OUT":0}
+Nachricht empfangen:
+Thema: 1862271660.JSON/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1862271660.KWh
+Nachricht: 21.4
+Nachricht empfangen:
+Thema: 1862271660.KWh/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1862271660.OUT
+Nachricht: 0
+Nachricht empfangen:
+Thema: 1862271660.OUT/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1862271660.PF
+Nachricht: 0.45
+Nachricht empfangen:
+Thema: 1862271660.PF/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1862271660.Temp
+Nachricht: 34
+Nachricht empfangen:
+Thema: 1862271660.Temp/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1862271660.V
+Nachricht: 227.68
+Nachricht empfangen:
+Thema: 1862271660.V/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1862271660.W
+Nachricht: 25
+Nachricht empfangen:
+Thema: 1862271660.W/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1862271660.Wh
+Nachricht: 21448
+Nachricht empfangen:
+Thema: 1862271660.Wh/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1862271728.A
+Nachricht: 1.19
+Nachricht empfangen:
+Thema: 1862271728.A/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1862271728.JSON
+Nachricht: {"TIME":1744633467,"V":227.93,"A":1.19,"W":250,"Wh":5427039,"KWh":5427.0,"PF":0.87,"Temp":31,"OUT":0}
+Nachricht empfangen:
+Thema: 1862271728.KWh
+Nachricht: 5427.0
+Nachricht empfangen:
+Thema: 1862271728.KWh/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1862271728.OUT
+Nachricht: 0
+Nachricht empfangen:
+Thema: 1862271728.OUT/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1862271728.PF
+Nachricht: 0.87
+Nachricht empfangen:
+Thema: 1862271728.PF/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1862271728.Temp
+Nachricht: 31
+Nachricht empfangen:
+Thema: 1862271728.Temp/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1862271728.V
+Nachricht: 227.93
+Nachricht empfangen:
+Thema: 1862271728.V/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1862271728.W
+Nachricht: 250
+Nachricht empfangen:
+Thema: 1862271728.W/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1862271728.Wh
+Nachricht: 5427039
+Nachricht empfangen:
+Thema: 1862271728.Wh/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1866yk
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1866yk/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 186cab
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 186cab/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 186suc
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 186suc/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 186y3j
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 186y3j/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 189trq
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 189trq/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 18afe8
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 18afe8/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 18fqq
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 18fqq/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 18g45a
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 18g45a/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 18kfo
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 18kfo/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 18m5oc
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 18m5oc/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 18mceg
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 18mceg/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 18nmxk
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 18nmxk/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 18rn4j
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 18rn4j/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 18taqj
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 18taqj/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 18uyg3
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 18uyg3/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 18xmz
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 18xmz/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 18y78s
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 18y78s/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 190467U_MediBox_Alarm1
+Nachricht: 22:19:
+Nachricht empfangen:
+Thema: 190467U_MediBox_Alarm1/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 190467U_MediBox_Alarm2
+Nachricht: 18:56:
+Nachricht empfangen:
+Thema: 190467U_MediBox_Alarm2/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 190467U_MediBox_Alarm3
+Nachricht: 17:47:
+Nachricht empfangen:
+Thema: 190467U_MediBox_Alarm3/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 190467U_MediBox_BuzzerDelay
+Nachricht: 40
+Nachricht empfangen:
+Thema: 190467U_MediBox_BuzzerDelay/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 190467U_MediBox_BuzzerFrequency
+Nachricht: 200
+Nachricht empfangen:
+Thema: 190467U_MediBox_BuzzerFrequency/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 190467U_MediBox_BuzzerOff
+Nachricht: 0
+Nachricht empfangen:
+Thema: 190467U_MediBox_BuzzerOn
+Nachricht: 0
+Nachricht empfangen:
+Thema: 190467U_MediBox_BuzzerType
+Nachricht: 0
+Nachricht empfangen:
+Thema: 190467U_MediBox_BuzzerType/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 190467U_MediBox_ControllingFactor
+Nachricht: 0.6
+Nachricht empfangen:
+Thema: 190467U_MediBox_ControllingFactor/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 190467U_MediBox_MinimumAngle
+Nachricht: 33
+Nachricht empfangen:
+Thema: 190467U_MediBox_MinimumAngle/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 190467U_MediBox_NumOfDays
+Nachricht: 5
+Nachricht empfangen:
+Thema: 190467U_MediBox_NumOfDays/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 190660F_Angle
+Nachricht: 39.715999999999994
+Nachricht empfangen:
+Thema: 190660F_MainSwitch
+Nachricht: true
+Nachricht empfangen:
+Thema: 190660F_Schedule
+Nachricht: {"switch1":true,"switch2":false,"switch3":true,"input1":57360000,"input2":50700000,"input3":57660000,"Days":1}
+Nachricht empfangen:
+Thema: 1929a
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1929a/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 192bk
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 192bk/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1932n
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1932n/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 195psxe
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 195psxe/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1963pq
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1963pq/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 196sas
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 196sas/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 198j8m
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 198j8m/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 199vj
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 199vj/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 19a6pn
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 19a6pn/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 19d2g9
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 19e5lp
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 19e5lp/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 19g9y
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 19g9y/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 19jieu
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 19jieu/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 19jqh9
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 19jqh9/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 19kx
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 19kx/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 19me9/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 19mpgn
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 19mpgn/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 19my7f
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 19my7f/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 19qzc7
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 19qzc7/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 19re4f
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 19re4f/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 19sb4s
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 19sb4s/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 19shmp
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 19shmp/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 19ua5a
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 19ua5a/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 19vmxb
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 19vmxb/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 19vs1j
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 19vs1j/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 19vuyg
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 19vuyg/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 19vxwh
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 19vxwh/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 19y0qv
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 19y0qv/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 19yey
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 19yey/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1EwS3BK5vB/pool/sim/temperature
+Nachricht: 13.5
+Nachricht empfangen:
+Thema: 1MKSEe9Ua5/garden/simslider/temperature
+Nachricht: 24.5
+Nachricht empfangen:
+Thema: 1_2/connection
+Nachricht: connection lost
+Nachricht empfangen:
+Thema: 1a1vwo
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1a1vwo/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1a3cg
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1a3cg/read/Mario@M7
+Nachricht: TKkOPWcYtmfi0+bcbS5Pti0MJMorxK+IgSvmh+AdRibysCCNJH2o+u/BBMApfH5ZVfBp23eSqzd5czlpPGs1k1ZWT9fsYcMWe4oH5kv6i1XUpINBi0VjOR2WNul/VX3YyX+E0mnrRhjYvO/VkdXhHZBkUmV4tuXvL9/t26yPshZLSchne+wjRfnlk1DGAyED61ortnyXGt6OYvL6
+Nachricht empfangen:
+Thema: 1a3uc8
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1a3uc8/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1a41td
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1a41td/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1a633
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1a633/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1a8277
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1a8277/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1a8ft
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1a8ft/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1a8lwb
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1a8lwb/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1a96ftl
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1a96ftl/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1a9pn4
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1a9pn4/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1aavec
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1aavec/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1abce
+Nachricht: AT+MIPSTART =test.mo
+Nachricht empfangen:
+Thema: 1abce/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1abcece
+Nachricht: AT+MIPSTART =test.mo
+Nachricht empfangen:
+Thema: 1abcece/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1abcedef
+Nachricht: at+qmtsub?
+at+qmtsu
+Nachricht empfangen:
+Thema: 1abcedef/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1abyhh
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1abyhh/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1acqa
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1acqa/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1ae1ea
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1ae1ea/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1aec5o
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1aec5o/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1af4f
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1af4f/read/Mario@M7
+Nachricht: l5ekWCBJFf7go+8jLZNWlyFgKXl+us97Mmzh6bFyPNTJ9OQAjjBop+RCjzV4sWUGe1Js5Em/42Uluz43fndh1zthb2WyyADRRwmc6w/DIgsHaxzW9LaLG+vBrh33+xjuzoJafjNhetXiolJxCYhDfcvOXVunr5Ut8x26O+sJ5fLFjZvlJvOtofeuhF8=
+Nachricht empfangen:
+Thema: 1affob
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1affob/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1ag0j
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1ag0j/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1ait4
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1ait4/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1aklbj
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1aklbj/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1akun
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1akun/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1amie
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1amie/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1anxic
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1anxic/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1aozc
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1aozc/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1aqjsn
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1aqjsn/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1asnyd
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1asnyd/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1atcvr
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1atcvr/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1ateste
+Nachricht: abrigo
+Nachricht empfangen:
+Thema: 1ateste/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1au9e
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1au9e/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1aumgi
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1aumgi/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1avbr6
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1avbr6/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1aw08l
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1aw08l/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1ax1qa
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1ax1qa/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1ay35q
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1ay35q/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1b4ev5
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1b4ev5/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1b5d1c
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1b5d1c/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1b6t8k
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1b6t8k/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1b7gaj
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1b7gaj/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1b7rrg
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1b7rrg/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1b81ps
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1b81ps/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1b85z
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1b85z/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1be63i
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1be63i/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1bea9h
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1bea9h/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1bf2ip
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1bf2ip/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1bfotn
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1bfotn/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1bfpid
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1bfpid/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1bg8e
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1bg8e/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1bhs4e
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1bhs4e/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1bj1mw
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1bj1mw/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1blb87
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1blb87/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1blfk
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1blfk/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1bmvpe
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1bmvpe/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
+Thema: 1bnoyr
+Nachricht: { "Received":{ "messageType":"DATA", "data":"20.46", "appId":"TEMP", "ts":1676292065686, "timestamp":"13/03/2023 12:41:05" } }
+Nachricht empfangen:
+Thema: 1lgo8m/read/Mario@M7
+Nachricht: 19-7-2023 08:22:28
+Nachricht empfangen:
