@@ -118,7 +118,7 @@
             this.btnPublish.UseVisualStyleBackColor = true;
             this.btnPublish.Click += btnPublish_Click;
             // 
-            // FrmUnsafe
+            // OhneZertifikat
             // 
             this.AutoScaleDimensions = new SizeF(7F, 15F);
             this.AutoScaleMode = AutoScaleMode.Font;
@@ -130,7 +130,7 @@
             this.Controls.Add(this.btnDisconnect);
             this.Controls.Add(this.btnConnect);
             this.Controls.Add(this.txtLog);
-            this.Name = "FrmUnsafe";
+            this.Name = "OhneZertifikat";
             this.StartPosition = FormStartPosition.CenterScreen;
             this.Text = "MQTT - ohne Zertifikat";
             this.WindowState = FormWindowState.Maximized;

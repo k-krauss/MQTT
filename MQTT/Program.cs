@@ -13,7 +13,7 @@ namespace MQTT
             ApplicationConfiguration.Initialize();
 
 
-            //Application.Run(new FrmUnsafe());
+            //Application.Run(new OhneZertifikat());
             Application.Run(new MitZertifikat());
         }
     }

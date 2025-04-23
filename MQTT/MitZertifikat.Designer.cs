@@ -118,7 +118,7 @@
             this.txtLog.TabIndex = 7;
             this.txtLog.Text = "";
             // 
-            // FrmSafe
+            // MitZertifikat
             // 
             this.AutoScaleDimensions = new SizeF(7F, 15F);
             this.AutoScaleMode = AutoScaleMode.Font;
@@ -130,7 +130,7 @@
             this.Controls.Add(this.btnDisconnect);
             this.Controls.Add(this.btnConnect);
             this.Controls.Add(this.txtLog);
-            this.Name = "FrmSafe";
+            this.Name = "MitZertifikat";
             this.StartPosition = FormStartPosition.CenterScreen;
             this.Text = "MQTT - mit Zertifikat";
             this.WindowState = FormWindowState.Maximized;

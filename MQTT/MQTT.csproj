@@ -16,9 +16,6 @@
     <None Update="Zertifikate\client.pfx">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="Zertifikate\mosquitto.org.crt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
   </ItemGroup>
 
 </Project>
