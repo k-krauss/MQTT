@@ -1,23 +1,28 @@
-using MQTTnet;
+﻿using MQTTnet;
 using MQTTnet.Client;
 using MQTTnet.Client.Connecting;
 using MQTTnet.Client.Disconnecting;
 using MQTTnet.Client.Options;
+using System.Diagnostics;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 
 namespace MQTT
 {
-    public partial class FrmUnsafe : Form
+    public partial class MitZertifikat : Form
     {
         private const string url = "test.mosquitto.org";
-        private const int port = 1883;
+        private const int port = 8886;
 
         private IMqttClient mqttClient;
         private IMqttClientOptions mqttOptions;
+        private X509Certificate clientCert;
 
-        public FrmUnsafe()
+        public MitZertifikat()
         {
             InitializeComponent();
+
+            clientCert = new X509Certificate(@"Zertifikate\client.pfx", "Beispiel");
         }
 
         #region Methoden
@@ -26,11 +31,23 @@ namespace MQTT
         {
             MqttFactory mqttFactory = new MqttFactory();
             mqttClient = mqttFactory.CreateMqttClient();
+
+            
+            MqttClientOptionsBuilderTlsParameters tlsOptions = new MqttClientOptionsBuilderTlsParameters
+            {
+                UseTls = true,
+                Certificates = new List<X509Certificate> { clientCert },
+                AllowUntrustedCertificates = false,
+                IgnoreCertificateChainErrors = false,
+                IgnoreCertificateRevocationErrors = false
+            };
+
             mqttOptions = new MqttClientOptionsBuilder()
                 .WithTcpServer(url, port)
+                .WithTls(tlsOptions)
                 .Build();
 
-            mqttClient.ConnectedHandler = new MqttClientConnectedHandlerDelegate(async e =>
+            mqttClient.ConnectedHandler = new MqttClientConnectedHandlerDelegate(e =>
             {
                 if (txtLog.InvokeRequired)
                 {
@@ -141,7 +158,7 @@ namespace MQTT
         {
             if (mqttClient != null && mqttClient.IsConnected)
             {
-                var mqttMessage = new MQTTnet.MqttApplicationMessageBuilder()
+                MqttApplicationMessage mqttMessage = new MqttApplicationMessageBuilder()
                     .WithTopic(topic)
                     .WithPayload(message)
                     .WithQualityOfServiceLevel(MQTTnet.Protocol.MqttQualityOfServiceLevel.AtLeastOnce)
@@ -196,6 +213,7 @@ namespace MQTT
                 catch (Exception ex)
                 {
                     MessageBox.Show(ex.Message, "Fehler", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    Debug.Write(ex.Message);
                 }
             }
             else

@@ -1,6 +1,6 @@
 ﻿namespace MQTT
 {
-    partial class FrmSafe
+    partial class MitZertifikat
     {
         /// <summary>
         /// Required designer variable.

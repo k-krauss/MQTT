@@ -1,28 +1,23 @@
-﻿using MQTTnet;
+using MQTTnet;
 using MQTTnet.Client;
 using MQTTnet.Client.Connecting;
 using MQTTnet.Client.Disconnecting;
 using MQTTnet.Client.Options;
-using System.Diagnostics;
-using System.Security.Cryptography.X509Certificates;
 using System.Text;
 
 namespace MQTT
 {
-    public partial class FrmSafe : Form
+    public partial class OhneZertifikat : Form
     {
         private const string url = "test.mosquitto.org";
-        private const int port = 8886;
+        private const int port = 1883;
 
         private IMqttClient mqttClient;
         private IMqttClientOptions mqttOptions;
-        private X509Certificate clientCert;
 
-        public FrmSafe()
+        public OhneZertifikat()
         {
             InitializeComponent();
-
-            clientCert = new X509Certificate(@"Zertifikate\client.pfx", "Beispiel");
         }
 
         #region Methoden
@@ -31,44 +26,11 @@ namespace MQTT
         {
             MqttFactory mqttFactory = new MqttFactory();
             mqttClient = mqttFactory.CreateMqttClient();
-
-            
-            MqttClientOptionsBuilderTlsParameters tlsOptions = new MqttClientOptionsBuilderTlsParameters
-            {
-                UseTls = true,
-                Certificates = new List<X509Certificate> { clientCert },
-                AllowUntrustedCertificates = false,
-                IgnoreCertificateChainErrors = false,
-                IgnoreCertificateRevocationErrors = false,
-                //CertificateValidationHandler = context =>
-                //{
-                    
-                //    using (var chain = new X509Chain())
-                //    {
-                //        chain.ChainPolicy.VerificationFlags = X509VerificationFlags.NoFlag;
-                //        chain.ChainPolicy.RevocationMode = X509RevocationMode.Online;
-
-                //        bool isValid = chain.Build(context.Certificate);
-                //        if (!isValid)
-                //        {
-                //            Debug.WriteLine("Server-Zertifikat konnte nicht validiert werden.");
-                //            foreach (var status in chain.ChainStatus)
-                //            {
-                //                Debug.WriteLine($"Status: {status.Status}, Info: {status.StatusInformation}");
-                //            }
-                //        }
-                //        return isValid;
-                //    }
-                //}
-            };
-
-            // MQTT-Optionen mit TLS-Parametern erstellen
             mqttOptions = new MqttClientOptionsBuilder()
                 .WithTcpServer(url, port)
-                .WithTls(tlsOptions)
                 .Build();
 
-            mqttClient.ConnectedHandler = new MqttClientConnectedHandlerDelegate(e =>
+            mqttClient.ConnectedHandler = new MqttClientConnectedHandlerDelegate(async e =>
             {
                 if (txtLog.InvokeRequired)
                 {
@@ -179,7 +141,7 @@ namespace MQTT
         {
             if (mqttClient != null && mqttClient.IsConnected)
             {
-                MqttApplicationMessage mqttMessage = new MqttApplicationMessageBuilder()
+                var mqttMessage = new MQTTnet.MqttApplicationMessageBuilder()
                     .WithTopic(topic)
                     .WithPayload(message)
                     .WithQualityOfServiceLevel(MQTTnet.Protocol.MqttQualityOfServiceLevel.AtLeastOnce)
@@ -234,7 +196,6 @@ namespace MQTT
                 catch (Exception ex)
                 {
                     MessageBox.Show(ex.Message, "Fehler", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    Debug.Write(ex.Message);
                 }
             }
             else

@@ -1,6 +1,6 @@
 ﻿namespace MQTT
 {
-    partial class FrmUnsafe
+    partial class OhneZertifikat
     {
         /// <summary>
         ///  Required designer variable.

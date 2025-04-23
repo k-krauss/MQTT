@@ -14,7 +14,7 @@ namespace MQTT
 
 
             //Application.Run(new FrmUnsafe());
-            Application.Run(new FrmSafe());
+            Application.Run(new MitZertifikat());
         }
     }
 }
