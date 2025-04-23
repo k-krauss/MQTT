@@ -9,8 +9,8 @@ namespace MQTT
 {
     public partial class OhneZertifikat : Form
     {
-        private const string url = "test.mosquitto.org";
-        private const int port = 1883;
+        private const string url = "test.mosquitto.org";    //URL des MQTT-Brokers
+        private const int port = 1883;                      //Port des MQTT-Brokers
 
         private IMqttClient mqttClient;
         private IMqttClientOptions mqttOptions;
@@ -24,15 +24,17 @@ namespace MQTT
 
         private void InitializeMqttClient()
         {
+            //MqttClient initialisieren
             MqttFactory mqttFactory = new MqttFactory();
             mqttClient = mqttFactory.CreateMqttClient();
             mqttOptions = new MqttClientOptionsBuilder()
                 .WithTcpServer(url, port)
                 .Build();
 
+            //Wird aufgerufen, wenn der Client eine Verbindung hergestellt hat
             mqttClient.ConnectedHandler = new MqttClientConnectedHandlerDelegate(async e =>
             {
-                if (txtLog.InvokeRequired)
+                if (txtLog.InvokeRequired)  //Wird verwendet, da der Aufruf nicht vom UI-Thread erfolgt
                 {
                     txtLog.Invoke((MethodInvoker)delegate
                     {
@@ -45,9 +47,10 @@ namespace MQTT
                 }
             });
 
+            //Wird aufgerufen, wenn der Client die Verbindung getrennt hat
             mqttClient.DisconnectedHandler = new MqttClientDisconnectedHandlerDelegate(e =>
             {
-                if (txtLog.InvokeRequired)
+                if (txtLog.InvokeRequired)  //Wird verwendet, da der Aufruf nicht vom UI-Thread erfolgt
                 {
                     txtLog.Invoke((MethodInvoker)delegate
                     {
@@ -61,7 +64,8 @@ namespace MQTT
                 return Task.CompletedTask;
             });
         }
-
+        
+        //Abonniert das angegebene Thema
         private async void SubscribeToTopic(string topic)
         {
             if (mqttClient != null && mqttClient.IsConnected)
@@ -80,6 +84,7 @@ namespace MQTT
             }
         }
 
+        //Erstellt einen ApplicationMessageReceivedHandler, um die Empfangenen Nachrichten in die Textbox zu schreiben
         private void InitializeMessageHandler()
         {
             mqttClient.ApplicationMessageReceivedHandler = new MQTTnet.Client.Receiving.MqttApplicationMessageReceivedHandlerDelegate(e =>
@@ -104,6 +109,7 @@ namespace MQTT
             });
         }
 
+        //Deabonniert das angegebene Thema
         private async void UnsubscribeFromTopic(string topic)
         {
             if (mqttClient != null && mqttClient.IsConnected)
@@ -137,11 +143,12 @@ namespace MQTT
             }
         }
 
+        //Veröffentlicht die angegebene Nachricht, zum angegebenen Thema
         private async void PublishMessage(string topic, string message)
         {
             if (mqttClient != null && mqttClient.IsConnected)
             {
-                var mqttMessage = new MQTTnet.MqttApplicationMessageBuilder()
+                var mqttMessage = new MqttApplicationMessageBuilder()
                     .WithTopic(topic)
                     .WithPayload(message)
                     .WithQualityOfServiceLevel(MQTTnet.Protocol.MqttQualityOfServiceLevel.AtLeastOnce)
