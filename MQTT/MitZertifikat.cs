@@ -56,12 +56,12 @@ namespace MQTT
                 {
                     txtLog.Invoke((MethodInvoker)delegate
                     {
-                        txtLog.AppendText("Verbunden mit dem Broker.\r\n");
+                        txtLog.AppendText("Verbunden mit dem Broker.\r\n\r\n");
                     });
                 }
                 else
                 {
-                    txtLog.AppendText("Verbunden mit dem Broker.\r\n");
+                    txtLog.AppendText("Verbunden mit dem Broker.\r\n\r\n");
                 }
             });
 
@@ -72,12 +72,12 @@ namespace MQTT
                 {
                     txtLog.Invoke((MethodInvoker)delegate
                     {
-                        txtLog.AppendText("Verbindung zum Broker getrennt.\r\n");
+                        txtLog.AppendText("Verbindung zum Broker getrennt.\r\n\r\n");
                     });
                 }
                 else
                 {
-                    txtLog.AppendText("Verbindung zum Broker getrennt.\r\n");
+                    txtLog.AppendText("Verbindung zum Broker getrennt.\r\n\r\n");
                 }
                 return Task.CompletedTask;
             });
@@ -94,11 +94,11 @@ namespace MQTT
 
                 InitializeMessageHandler();
 
-                txtLog.AppendText($"Thema '{topic}' abonniert.\r\n");
+                txtLog.AppendText($"Thema '{topic}' abonniert.\r\n\r\n");
             }
             else
             {
-                txtLog.AppendText("Client ist nicht verbunden. Abonnement fehlgeschlagen.\r\n");
+                txtLog.AppendText("Client ist nicht verbunden. Abonnement fehlgeschlagen.\r\n\r\n");
             }
         }
 
@@ -116,12 +116,12 @@ namespace MQTT
                     {
                         txtLog.Invoke((MethodInvoker)delegate
                         {
-                            txtLog.AppendText($"Nachricht empfangen:\r\nThema: {topic}\r\nNachricht: {payload}\r\n");
+                            txtLog.AppendText($"Nachricht empfangen:\r\nThema: {topic}\r\nNachricht: {payload}\r\n\r\n");
                         });
                     }
                     else
                     {
-                        txtLog.AppendText($"Nachricht empfangen:\r\nThema: {topic}\r\nNachricht: {payload}\r\n");
+                        txtLog.AppendText($"Nachricht empfangen:\r\nThema: {topic}\r\nNachricht: {payload}\r\n\r\n");
                     }
                 }
             });
@@ -137,12 +137,12 @@ namespace MQTT
                 {
                     txtLog.Invoke((MethodInvoker)delegate
                     {
-                        txtLog.AppendText($"Thema '{topic}' abbestellt.\r\n");
+                        txtLog.AppendText($"Thema '{topic}' abbestellt.\r\n\r\n");
                     });
                 }
                 else
                 {
-                    txtLog.AppendText($"Thema '{topic}' abbestellt.\r\n");
+                    txtLog.AppendText($"Thema '{topic}' abbestellt.\r\n\r\n");
                 }
             }
             else
@@ -151,12 +151,12 @@ namespace MQTT
                 {
                     txtLog.Invoke((MethodInvoker)delegate
                     {
-                        txtLog.AppendText("Client ist nicht verbunden. Abbestellung fehlgeschlagen.\r\n");
+                        txtLog.AppendText("Client ist nicht verbunden. Abbestellung fehlgeschlagen.\r\n\r\n");
                     });
                 }
                 else
                 {
-                    txtLog.AppendText("Client ist nicht verbunden. Abbestellung fehlgeschlagen.\r\n");
+                    txtLog.AppendText("Client ist nicht verbunden. Abbestellung fehlgeschlagen.\r\n\r\n");
                 }
             }
         }
@@ -177,12 +177,12 @@ namespace MQTT
                 {
                     txtLog.Invoke((MethodInvoker)delegate
                     {
-                        txtLog.AppendText($"Nachricht an '{topic}' gesendet: {message}\r\n");
+                        txtLog.AppendText($"Nachricht an '{topic}' gesendet: {message}\r\n\r\n");
                     });
                 }
                 else
                 {
-                    txtLog.AppendText($"Nachricht an '{topic}' gesendet: {message}\r\n");
+                    txtLog.AppendText($"Nachricht an '{topic}' gesendet: {message}\r\n\r\n");
                 }
             }
             else
@@ -191,12 +191,12 @@ namespace MQTT
                 {
                     txtLog.Invoke((MethodInvoker)delegate
                     {
-                        txtLog.AppendText("Client ist nicht verbunden. Nachricht konnte nicht gesendet werden.\r\n");
+                        txtLog.AppendText("Client ist nicht verbunden. Nachricht konnte nicht gesendet werden.\r\n\r\n");
                     });
                 }
                 else
                 {
-                    txtLog.AppendText("Client ist nicht verbunden. Nachricht konnte nicht gesendet werden.\r\n");
+                    txtLog.AppendText("Client ist nicht verbunden. Nachricht konnte nicht gesendet werden.\r\n\r\n");
                 }
             }
         }
@@ -226,7 +226,7 @@ namespace MQTT
             }
             else
             {
-                txtLog.AppendText("Client ist bereits verbunden.\r\n");
+                txtLog.AppendText("Client ist bereits verbunden.\r\n\r\n");
             }
         }
 
@@ -238,7 +238,7 @@ namespace MQTT
             }
             else
             {
-                txtLog.AppendText("Client ist bereits getrennt.\r\n");
+                txtLog.AppendText("Client ist bereits getrennt.\r\n\r\n");
             }
         }
 
@@ -249,17 +249,17 @@ namespace MQTT
 
         private void btnSubscribe_Click(object sender, EventArgs e)
         {
-            SubscribeToTopic("/mein/mqtt/test");
+            SubscribeToTopic("/beispiel/temperatur");
         }
 
         private void btnUnsubscribe_Click(object sender, EventArgs e)
         {
-            UnsubscribeFromTopic("/mein/mqtt/test");
+            UnsubscribeFromTopic("/beispiel/temperatur");
         }
 
         private void btnPublish_Click(object sender, EventArgs e)
         {
-            PublishMessage("/mein/mqtt/test", "Das ist ein Test");
+            PublishMessage("/beispiel/temperatur", "5.4°C");
         }
 
         #endregion
