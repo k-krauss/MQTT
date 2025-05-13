@@ -31,17 +31,17 @@
             this.btnPublish = new Button();
             this.btnUnsubscribe = new Button();
             this.btnSubscribe = new Button();
-            this.btnClearLog = new Button();
             this.btnDisconnect = new Button();
             this.btnConnect = new Button();
-            this.txtLog = new RichTextBox();
+            this.txtLogSubscribe = new RichTextBox();
+            this.txtLogPublish = new RichTextBox();
             SuspendLayout();
             // 
             // btnPublish
             // 
             this.btnPublish.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
             this.btnPublish.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold);
-            this.btnPublish.Location = new Point(447, 513);
+            this.btnPublish.Location = new Point(909, 414);
             this.btnPublish.Name = "btnPublish";
             this.btnPublish.Size = new Size(139, 44);
             this.btnPublish.TabIndex = 13;
@@ -53,7 +53,7 @@
             // 
             this.btnUnsubscribe.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
             this.btnUnsubscribe.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold);
-            this.btnUnsubscribe.Location = new Point(302, 513);
+            this.btnUnsubscribe.Location = new Point(207, 414);
             this.btnUnsubscribe.Name = "btnUnsubscribe";
             this.btnUnsubscribe.Size = new Size(139, 44);
             this.btnUnsubscribe.TabIndex = 12;
@@ -65,24 +65,13 @@
             // 
             this.btnSubscribe.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
             this.btnSubscribe.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold);
-            this.btnSubscribe.Location = new Point(157, 513);
+            this.btnSubscribe.Location = new Point(62, 414);
             this.btnSubscribe.Name = "btnSubscribe";
             this.btnSubscribe.Size = new Size(139, 44);
             this.btnSubscribe.TabIndex = 11;
             this.btnSubscribe.Text = "Subscribe";
             this.btnSubscribe.UseVisualStyleBackColor = true;
             this.btnSubscribe.Click += btnSubscribe_Click;
-            // 
-            // btnClearLog
-            // 
-            this.btnClearLog.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold);
-            this.btnClearLog.Location = new Point(12, 420);
-            this.btnClearLog.Name = "btnClearLog";
-            this.btnClearLog.Size = new Size(139, 44);
-            this.btnClearLog.TabIndex = 10;
-            this.btnClearLog.Text = "Log leeren";
-            this.btnClearLog.UseVisualStyleBackColor = true;
-            this.btnClearLog.Click += btnClearLog_Click;
             // 
             // btnDisconnect
             // 
@@ -108,32 +97,42 @@
             this.btnConnect.UseVisualStyleBackColor = true;
             this.btnConnect.Click += btnConnect_Click;
             // 
-            // txtLog
+            // txtLogSubscribe
             // 
-            this.txtLog.Dock = DockStyle.Top;
-            this.txtLog.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold);
-            this.txtLog.Location = new Point(0, 0);
-            this.txtLog.Name = "txtLog";
-            this.txtLog.Size = new Size(1195, 408);
-            this.txtLog.TabIndex = 7;
-            this.txtLog.Text = "";
+            this.txtLogSubscribe.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold);
+            this.txtLogSubscribe.Location = new Point(0, 0);
+            this.txtLogSubscribe.Name = "txtLogSubscribe";
+            this.txtLogSubscribe.ReadOnly = true;
+            this.txtLogSubscribe.Size = new Size(549, 408);
+            this.txtLogSubscribe.TabIndex = 7;
+            this.txtLogSubscribe.Text = "";
+            // 
+            // txtLogPublish
+            // 
+            this.txtLogPublish.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            this.txtLogPublish.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold);
+            this.txtLogPublish.Location = new Point(630, 0);
+            this.txtLogPublish.Name = "txtLogPublish";
+            this.txtLogPublish.ReadOnly = true;
+            this.txtLogPublish.Size = new Size(563, 408);
+            this.txtLogPublish.TabIndex = 14;
+            this.txtLogPublish.Text = "";
             // 
             // MitZertifikat
             // 
             this.AutoScaleDimensions = new SizeF(7F, 15F);
             this.AutoScaleMode = AutoScaleMode.Font;
             this.ClientSize = new Size(1195, 563);
+            this.Controls.Add(this.txtLogPublish);
             this.Controls.Add(this.btnPublish);
             this.Controls.Add(this.btnUnsubscribe);
             this.Controls.Add(this.btnSubscribe);
-            this.Controls.Add(this.btnClearLog);
             this.Controls.Add(this.btnDisconnect);
             this.Controls.Add(this.btnConnect);
-            this.Controls.Add(this.txtLog);
+            this.Controls.Add(this.txtLogSubscribe);
             this.Name = "MitZertifikat";
             this.StartPosition = FormStartPosition.CenterScreen;
             this.Text = "MQTT - mit Zertifikat";
-            this.WindowState = FormWindowState.Maximized;
             ResumeLayout(false);
         }
 
@@ -142,9 +141,9 @@
         private Button btnPublish;
         private Button btnUnsubscribe;
         private Button btnSubscribe;
-        private Button btnClearLog;
         private Button btnDisconnect;
         private Button btnConnect;
-        private RichTextBox txtLog;
+        private RichTextBox txtLogSubscribe;
+        private RichTextBox txtLogPublish;
     }
 }

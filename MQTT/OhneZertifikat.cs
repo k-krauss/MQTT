@@ -34,32 +34,32 @@ namespace MQTT
             //Wird aufgerufen, wenn der Client eine Verbindung hergestellt hat
             mqttClient.ConnectedHandler = new MqttClientConnectedHandlerDelegate(async e =>
             {
-                if (txtLog.InvokeRequired)  //Wird verwendet, da der Aufruf nicht vom UI-Thread erfolgt
+                if (txtLogPublish.InvokeRequired)  //Wird verwendet, da der Aufruf nicht vom UI-Thread erfolgt
                 {
-                    txtLog.Invoke((MethodInvoker)delegate
+                    txtLogPublish.Invoke((MethodInvoker)delegate
                     {
-                        txtLog.AppendText("Verbunden mit dem Broker.\r\n\r\n");
+                        txtLogPublish.AppendText("Verbunden mit dem Broker.\r\n\r\n");
                     });
                 }
                 else
                 {
-                    txtLog.AppendText("Verbunden mit dem Broker.\r\n\r\n");
+                    txtLogPublish.AppendText("Verbunden mit dem Broker.\r\n\r\n");
                 }
             });
 
             //Wird aufgerufen, wenn der Client die Verbindung getrennt hat
             mqttClient.DisconnectedHandler = new MqttClientDisconnectedHandlerDelegate(e =>
             {
-                if (txtLog.InvokeRequired)  //Wird verwendet, da der Aufruf nicht vom UI-Thread erfolgt
+                if (txtLogPublish.InvokeRequired)  //Wird verwendet, da der Aufruf nicht vom UI-Thread erfolgt
                 {
-                    txtLog.Invoke((MethodInvoker)delegate
+                    txtLogPublish.Invoke((MethodInvoker)delegate
                     {
-                        txtLog.AppendText("Verbindung zum Broker getrennt.\r\n\r\n");
+                        txtLogPublish.AppendText("Verbindung zum Broker getrennt.\r\n\r\n");
                     });
                 }
                 else
                 {
-                    txtLog.AppendText("Verbindung zum Broker getrennt.\r\n\r\n");
+                    txtLogPublish.AppendText("Verbindung zum Broker getrennt.\r\n\r\n");
                 }
                 return Task.CompletedTask;
             });
@@ -76,11 +76,11 @@ namespace MQTT
 
                 InitializeMessageHandler();
 
-                txtLog.AppendText($"Thema '{topic}' abonniert.\r\n\r\n");
+                txtLogSubscribe.AppendText($"Thema '{topic}' abonniert.\r\n\r\n");
             }
             else
             {
-                txtLog.AppendText("Client ist nicht verbunden. Abonnement fehlgeschlagen.\r\n\r\n");
+                txtLogSubscribe.AppendText("Client ist nicht verbunden. Abonnement fehlgeschlagen.\r\n\r\n");
             }
         }
 
@@ -94,16 +94,16 @@ namespace MQTT
                     string payload = Encoding.UTF8.GetString(e.ApplicationMessage.Payload);
                     string topic = e.ApplicationMessage.Topic;
 
-                    if (txtLog.InvokeRequired)
+                    if (txtLogSubscribe.InvokeRequired)
                     {
-                        txtLog.Invoke((MethodInvoker)delegate
+                        txtLogSubscribe.Invoke((MethodInvoker)delegate
                         {
-                            txtLog.AppendText($"Nachricht empfangen:\r\nThema: {topic}\r\nNachricht: {payload}\r\n\r\n");
+                            txtLogSubscribe.AppendText($"Nachricht empfangen:\r\nThema: {topic}\r\nNachricht: {payload}\r\n\r\n");
                         });
                     }
                     else
                     {
-                        txtLog.AppendText($"Nachricht empfangen:\r\nThema: {topic}\r\nNachricht: {payload}\r\n\r\n");
+                        txtLogSubscribe.AppendText($"Nachricht empfangen:\r\nThema: {topic}\r\nNachricht: {payload}\r\n\r\n");
                     }
                 }
             });
@@ -115,30 +115,30 @@ namespace MQTT
             if (mqttClient != null && mqttClient.IsConnected)
             {
                 await mqttClient.UnsubscribeAsync(topic);
-                if (txtLog.InvokeRequired)
+                if (txtLogSubscribe.InvokeRequired)
                 {
-                    txtLog.Invoke((MethodInvoker)delegate
+                    txtLogSubscribe.Invoke((MethodInvoker)delegate
                     {
-                        txtLog.AppendText($"Thema '{topic}' abbestellt.\r\n\r\n");
+                        txtLogSubscribe.AppendText($"Thema '{topic}' abbestellt.\r\n\r\n");
                     });
                 }
                 else
                 {
-                    txtLog.AppendText($"Thema '{topic}' abbestellt.\r\n\r\n");
+                    txtLogSubscribe.AppendText($"Thema '{topic}' abbestellt.\r\n\r\n");
                 }
             }
             else
             {
-                if (txtLog.InvokeRequired)
+                if (txtLogSubscribe.InvokeRequired)
                 {
-                    txtLog.Invoke((MethodInvoker)delegate
+                    txtLogSubscribe.Invoke((MethodInvoker)delegate
                     {
-                        txtLog.AppendText("Client ist nicht verbunden. Abbestellung fehlgeschlagen.\r\n\r\n");
+                        txtLogSubscribe.AppendText("Client ist nicht verbunden. Abbestellung fehlgeschlagen.\r\n\r\n");
                     });
                 }
                 else
                 {
-                    txtLog.AppendText("Client ist nicht verbunden. Abbestellung fehlgeschlagen.\r\n\r\n");
+                    txtLogSubscribe.AppendText("Client ist nicht verbunden. Abbestellung fehlgeschlagen.\r\n\r\n");
                 }
             }
         }
@@ -155,30 +155,30 @@ namespace MQTT
                     .Build();
 
                 await mqttClient.PublishAsync(mqttMessage);
-                if (txtLog.InvokeRequired)
+                if (txtLogPublish.InvokeRequired)
                 {
-                    txtLog.Invoke((MethodInvoker)delegate
+                    txtLogPublish.Invoke((MethodInvoker)delegate
                     {
-                        txtLog.AppendText($"Nachricht an '{topic}' gesendet: {message}\r\n\r\n");
+                        txtLogPublish.AppendText($"Nachricht an '{topic}' gesendet: {message}\r\n\r\n");
                     });
                 }
                 else
                 {
-                    txtLog.AppendText($"Nachricht an '{topic}' gesendet: {message}\r\n\r\n");
+                    txtLogPublish.AppendText($"Nachricht an '{topic}' gesendet: {message}\r\n\r\n");
                 }
             }
             else
             {
-                if (txtLog.InvokeRequired)
+                if (txtLogPublish.InvokeRequired)
                 {
-                    txtLog.Invoke((MethodInvoker)delegate
+                    txtLogPublish.Invoke((MethodInvoker)delegate
                     {
-                        txtLog.AppendText("Client ist nicht verbunden. Nachricht konnte nicht gesendet werden.\r\n\r\n");
+                        txtLogPublish.AppendText("Client ist nicht verbunden. Nachricht konnte nicht gesendet werden.\r\n\r\n");
                     });
                 }
                 else
                 {
-                    txtLog.AppendText("Client ist nicht verbunden. Nachricht konnte nicht gesendet werden.\r\n\r\n");
+                    txtLogPublish.AppendText("Client ist nicht verbunden. Nachricht konnte nicht gesendet werden.\r\n\r\n");
                 }
             }
         }
@@ -207,7 +207,7 @@ namespace MQTT
             }
             else
             {
-                txtLog.AppendText("Client ist bereits verbunden.\r\n\r\n");
+                txtLogPublish.AppendText("Client ist bereits verbunden.\r\n\r\n");
             }
         }
 
@@ -219,13 +219,8 @@ namespace MQTT
             }
             else
             {
-                txtLog.AppendText("Client ist bereits getrennt.\r\n\r\n");
+                txtLogPublish.AppendText("Client ist bereits getrennt.\r\n\r\n");
             }
-        }
-
-        private void btnClearLog_Click(object sender, EventArgs e)
-        {
-            txtLog.Text = String.Empty;
         }
 
         private void btnSubscribe_Click(object sender, EventArgs e)
