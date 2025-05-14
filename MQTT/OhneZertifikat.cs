@@ -115,6 +115,7 @@ namespace MQTT
             if (mqttClient != null && mqttClient.IsConnected)
             {
                 await mqttClient.UnsubscribeAsync(topic);
+
                 if (txtLogSubscribe.InvokeRequired)
                 {
                     txtLogSubscribe.Invoke((MethodInvoker)delegate
@@ -155,6 +156,7 @@ namespace MQTT
                     .Build();
 
                 await mqttClient.PublishAsync(mqttMessage);
+
                 if (txtLogPublish.InvokeRequired)
                 {
                     txtLogPublish.Invoke((MethodInvoker)delegate

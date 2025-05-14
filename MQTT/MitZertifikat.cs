@@ -23,7 +23,7 @@ namespace MQTT
             InitializeComponent();
 
             //Clientzertifikat, welches zur Authentifizierung verwendet wird
-            clientCert = new X509Certificate(@"Zertifikate\client.pfx", "Beispiel");
+            clientCert = new X509Certificate(@"Zertifikate\Beispiel.pfx", "Passwort123");
         }
 
         #region Methoden

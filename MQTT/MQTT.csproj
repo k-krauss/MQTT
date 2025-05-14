@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="Zertifikate\client.pfx">
+    <None Update="Zertifikate\Beispiel.pfx">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

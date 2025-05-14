@@ -13,8 +13,8 @@ namespace MQTT
             ApplicationConfiguration.Initialize();
 
 
-            //Application.Run(new OhneZertifikat());
-            Application.Run(new MitZertifikat());
+            Application.Run(new OhneZertifikat());
+            //Application.Run(new MitZertifikat());
         }
     }
 }
