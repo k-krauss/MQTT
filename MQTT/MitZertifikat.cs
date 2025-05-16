@@ -11,6 +11,8 @@ namespace MQTT
 {
     public partial class MitZertifikat : Form
     {
+        //Der Broker akzeptiert keine selbst erstellten Zertifikate!!!
+        //Würde nur bei einem eigenen Broker funktionieren!!!
         private const string url = "test.mosquitto.org";    //URL des MQTT-Brokers
         private const int port = 8886;                      //Port des MQTT-Brokers
 
